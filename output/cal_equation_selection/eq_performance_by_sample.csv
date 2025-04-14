@@ -1,0 +1,285 @@
+id,species,new_sample,latitude,longitude,gs_correct,ma_correct,correct
+LM20001,mall,0,45.93319,-89.520966,1,1,Correct by both eq.
+LM20002,mall,0,45.93319,-89.520966,1,1,Correct by both eq.
+LM20003,mall,0,45.93319,-89.520966,0,0,Neither eq. correct
+LM20007,mall,0,45.93319,-89.520966,0,1,MA only correct
+LM20009,mall,0,45.93319,-89.520966,0,1,MA only correct
+LM20021,mall,0,44.075795,-90.359338,1,1,Correct by both eq.
+LM20022,mall,0,44.075795,-90.359338,1,1,Correct by both eq.
+LM20004,mall,0,45.93319,-89.520966,1,1,Correct by both eq.
+LM20005,mall,0,45.93319,-89.520966,1,1,Correct by both eq.
+LM20006,mall,0,45.93319,-89.520966,1,0,GS only correct
+LM20008,mall,0,45.93319,-89.520966,0,0,Neither eq. correct
+LM20010,mall,0,45.93319,-89.520966,0,0,Neither eq. correct
+LM21001,mall,0,45.926351,-89.647875,1,1,Correct by both eq.
+LM21002,mall,0,45.926351,-89.647875,1,1,Correct by both eq.
+LM21003,mall,0,45.926351,-89.647875,0,0,Neither eq. correct
+LM21004,mall,0,45.926351,-89.647875,0,0,Neither eq. correct
+LM21005,mall,0,45.926351,-89.647875,1,1,Correct by both eq.
+LM21007,mall,0,45.926351,-89.647875,1,1,Correct by both eq.
+LM21008,mall,0,45.866895,-89.623384,1,1,Correct by both eq.
+LM21009,mall,0,45.866895,-89.623384,1,1,Correct by both eq.
+LM21010,mall,0,45.866895,-89.623384,1,1,Correct by both eq.
+LM21011,mall,0,45.866895,-89.623384,1,1,Correct by both eq.
+LM21012,mall,0,45.866895,-89.623384,1,1,Correct by both eq.
+LM21013,mall,0,45.866895,-89.623384,0,1,MA only correct
+LM21014,mall,0,45.866895,-89.623384,1,1,Correct by both eq.
+LM21015,mall,0,45.866895,-89.623384,1,1,Correct by both eq.
+LM21016,mall,0,45.866895,-89.623384,1,1,Correct by both eq.
+LM21017,mall,0,45.866895,-89.623384,0,1,MA only correct
+LM21018,mall,0,45.871239,-89.892066,0,0,Neither eq. correct
+LM21019,mall,0,45.871239,-89.892066,1,1,Correct by both eq.
+LM21020,mall,0,45.871239,-89.892066,1,1,Correct by both eq.
+LM21021,mall,0,45.871239,-89.892066,0,0,Neither eq. correct
+LM21022,mall,0,45.871239,-89.892066,0,0,Neither eq. correct
+LM21023,mall,0,45.871239,-89.892066,1,1,Correct by both eq.
+LM21024,mall,0,45.871239,-89.892066,1,0,GS only correct
+LM21025,mall,0,45.871239,-89.892066,1,0,GS only correct
+LM21026,mall,0,45.871239,-89.892066,0,0,Neither eq. correct
+LM21027,mall,0,45.871239,-89.892066,0,0,Neither eq. correct
+LM21028,mall,0,44.07553,-90.360749,0,0,Neither eq. correct
+LM21029,mall,0,44.07553,-90.360749,1,0,GS only correct
+LM21030,mall,0,44.07553,-90.360749,0,0,Neither eq. correct
+LM21031,mall,0,44.07553,-90.360749,0,0,Neither eq. correct
+LM21032,mall,0,44.07553,-90.360749,0,0,Neither eq. correct
+LM21033,mall,0,44.804996,-88.523421,1,0,GS only correct
+LM21035,mall,0,44.804996,-88.523421,1,1,Correct by both eq.
+LM21036,mall,0,44.804996,-88.523421,1,1,Correct by both eq.
+LM21037,mall,0,44.804996,-88.523421,1,1,Correct by both eq.
+LM21039,mall,0,44.804996,-88.523421,1,1,Correct by both eq.
+LM21042,mall,0,43.061471,-89.38084,1,1,Correct by both eq.
+LM21043,mall,0,43.061471,-89.38084,1,1,Correct by both eq.
+LM21044,mall,0,43.061471,-89.38084,0,0,Neither eq. correct
+LM21045,mall,0,43.061471,-89.38084,0,1,MA only correct
+LM21046,mall,0,43.061471,-89.38084,1,1,Correct by both eq.
+LM21047,mall,0,43.061471,-89.38084,0,0,Neither eq. correct
+LM21048,mall,0,43.061471,-89.38084,0,0,Neither eq. correct
+LM21049,mall,0,43.061471,-89.38084,0,0,Neither eq. correct
+WI-23-1,mall,1,42.576594,-88.537517,1,1,Correct by both eq.
+WI-23-2,mall,1,42.569086,-88.439412,1,1,Correct by both eq.
+WI-23-3,mall,1,42.569086,-88.439412,1,1,Correct by both eq.
+WI-23-4,mall,1,42.569086,-88.439412,1,1,Correct by both eq.
+WI-23-7,mall,1,42.813929,-88.209663,1,0,GS only correct
+WI-23-8,mall,1,42.813929,-88.209663,1,0,GS only correct
+WI-23-10,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-11,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-12,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-13,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-14,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-15,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-16,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-17,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-18,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-19,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-20,mall,1,45.911234,-89.629002,1,1,Correct by both eq.
+WI-23-21,mall,1,45.911234,-89.629002,0,1,MA only correct
+WI-23-22,mall,1,45.911234,-89.629002,1,1,Correct by both eq.
+WI-23-23,mall,1,45.911234,-89.629002,1,0,GS only correct
+WI-23-24,mall,1,45.93319,-89.520966,0,1,MA only correct
+WI-23-25,mall,1,45.93319,-89.520966,0,1,MA only correct
+WI-23-26,mall,1,45.93319,-89.520966,0,1,MA only correct
+WI-23-27,mall,1,45.93319,-89.520966,1,1,Correct by both eq.
+WI-23-28,mall,1,45.93319,-89.520966,0,1,MA only correct
+WI-23-29,mall,1,45.93319,-89.520966,1,1,Correct by both eq.
+WI-23-30,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-31,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-32,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-33,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-34,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-35,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-36,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-37,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-38,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-39,mall,1,45.871239,-89.892066,1,1,Correct by both eq.
+WI-23-40,mall,1,45.926351,-89.647875,1,1,Correct by both eq.
+WI-23-41,mall,1,45.926351,-89.647875,1,1,Correct by both eq.
+WI-23-42,mall,1,45.926351,-89.647875,1,1,Correct by both eq.
+WI-23-43,mall,1,45.926351,-89.647875,1,1,Correct by both eq.
+WI-23-44,mall,1,45.926351,-89.647875,1,0,GS only correct
+WI-23-45,mall,1,45.926351,-89.647875,1,1,Correct by both eq.
+WI-23-46,mall,1,45.926351,-89.647875,1,1,Correct by both eq.
+WI-23-47,mall,1,45.926351,-89.647875,1,1,Correct by both eq.
+WI-23-48,mall,1,45.926351,-89.647875,1,1,Correct by both eq.
+WI-23-49,mall,1,45.926351,-89.647875,1,1,Correct by both eq.
+WI-23-50,mall,1,45.926351,-89.647875,1,1,Correct by both eq.
+WI-23-51,mall,1,45.926351,-89.647875,1,1,Correct by both eq.
+WI-23-52,mall,1,45.926351,-89.647875,1,1,Correct by both eq.
+WI-23-53,mall,1,43.867819,-91.307089,0,0,Neither eq. correct
+WI-23-54,mall,1,43.867819,-91.307089,0,0,Neither eq. correct
+WI-23-55,mall,1,43.867819,-91.307089,0,0,Neither eq. correct
+WI-23-56,mall,1,43.867819,-91.307089,0,0,Neither eq. correct
+WI-23-57,mall,1,43.867819,-91.307089,0,0,Neither eq. correct
+WI-23-58,mall,1,42.820537,-91.078066,1,1,Correct by both eq.
+WI-23-59,mall,1,43.36097,-91.18087,0,0,Neither eq. correct
+WI-23-60,mall,1,43.36097,-91.18087,1,0,GS only correct
+WI-23-61,mall,1,43.36097,-91.18087,0,0,Neither eq. correct
+WI-23-62,mall,1,43.36097,-91.18087,1,0,GS only correct
+WI-23-63,mall,1,45.93319,-89.520966,1,1,Correct by both eq.
+WI-23-64,mall,1,45.93319,-89.520966,1,1,Correct by both eq.
+WI-23-65,mall,1,45.93319,-89.520966,1,1,Correct by both eq.
+WI-23-67,mall,1,45.93319,-89.520966,1,1,Correct by both eq.
+WI-23-69,mall,1,45.93319,-89.520966,1,1,Correct by both eq.
+WI-23-70,mall,1,45.93319,-89.520966,1,1,Correct by both eq.
+WI-23-71,mall,1,45.93319,-89.520966,1,1,Correct by both eq.
+WI-23-72,mall,1,45.93319,-89.520966,1,1,Correct by both eq.
+WI-23-73,mall,1,45.93319,-89.520966,1,1,Correct by both eq.
+WI-23-75,mall,1,45.93319,-89.520966,1,0,GS only correct
+WI-23-76,mall,1,45.93319,-89.520966,1,1,Correct by both eq.
+WI-23-77,mall,1,45.93319,-89.520966,1,1,Correct by both eq.
+MN001,mall,0,47.69222222000001,-95.52527778,1,1,Correct by both eq.
+MN002,mall,0,47.69222222000001,-95.52527778,1,1,Correct by both eq.
+MN003,mall,0,47.69222222000001,-95.52527778,1,1,Correct by both eq.
+MN004,mall,0,47.6575,-94.86833332999998,1,1,Correct by both eq.
+MN005,mall,0,47.6575,-94.86833332999998,1,1,Correct by both eq.
+MN006,mall,0,47.6575,-94.86833332999998,1,1,Correct by both eq.
+MN010,mall,0,47.598055560000006,-94.28333332999999,0,0,Neither eq. correct
+MN011,mall,0,47.598055560000006,-94.28333332999999,0,0,Neither eq. correct
+MN012,mall,0,47.598055560000006,-94.28333332999999,0,0,Neither eq. correct
+MN013,mall,0,47.61916667,-94.16722222000001,0,0,Neither eq. correct
+MN014,mall,0,47.61916667,-94.16722222000001,0,0,Neither eq. correct
+MN015,mall,0,47.61916667,-94.16722222000001,0,0,Neither eq. correct
+MN016,mall,0,47.644722220000006,-94.11916667000001,1,1,Correct by both eq.
+MN017,mall,0,47.644722220000006,-94.11916667000001,1,1,Correct by both eq.
+MN018,mall,0,47.675000000000004,-95.52499999999999,0,0,Neither eq. correct
+MN019,mall,0,47.675000000000004,-95.52499999999999,0,0,Neither eq. correct
+MN021,mall,0,47.69222222000001,-95.52527778,1,1,Correct by both eq.
+MN025,mall,0,47.26861111000001,-93.75472222,1,1,Correct by both eq.
+MN030,mall,0,47.53138889,-94.28750000000001,1,1,Correct by both eq.
+MN034,mall,0,48.491666669999994,-95.89305556000001,1,1,Correct by both eq.
+MN036,mall,0,48.25833333000001,-96.09166667000002,1,1,Correct by both eq.
+MN038,mall,0,47.675000000000004,-95.00833332999999,1,1,Correct by both eq.
+2167-38451,mall,1,47.416666667,-94.916666667,1,1,Correct by both eq.
+2167-38453,mall,1,47.416666667,-94.916666667,1,1,Correct by both eq.
+2167-38458,mall,1,47.525,-94.858333333,1,1,Correct by both eq.
+2167-38459,mall,1,47.525,-94.858333333,1,1,Correct by both eq.
+2167-38470,mall,1,47.583333333,-94.083333333,1,1,Correct by both eq.
+2167-38497,mall,1,47.916666667,-94.416666667,1,1,Correct by both eq.
+2167-38498,mall,1,47.916666667,-94.416666667,1,1,Correct by both eq.
+2167-38727,mall,1,47.75,-94.75,1,1,Correct by both eq.
+2167-38728,mall,1,47.75,-95.583333333,0,0,Neither eq. correct
+2167-38732,mall,1,47.583333333,-95.083333333,1,1,Correct by both eq.
+2167-38733,mall,1,47.583333333,-95.083333333,0,0,Neither eq. correct
+2167-38734,mall,1,47.583333333,-95.083333333,0,0,Neither eq. correct
+2167-38735,mall,1,47.583333333,-95.083333333,0,0,Neither eq. correct
+2167-38738,mall,1,47.6575,-94.868333333,0,0,Neither eq. correct
+2167-38739,mall,1,47.6575,-94.868333333,0,0,Neither eq. correct
+2167-38741,mall,1,47.475,-94.875,1,1,Correct by both eq.
+2167-38745,mall,1,47.475,-94.875,1,1,Correct by both eq.
+2167-38759,mall,1,47.475,-94.875,1,1,Correct by both eq.
+2167-38773,mall,1,47.475,-94.875,1,1,Correct by both eq.
+2167-38775,mall,1,47.475,-94.875,1,1,Correct by both eq.
+2167-38776,mall,1,47.416666667,-94.583333333,1,0,GS only correct
+2167-38777,mall,1,47.416666667,-94.583333333,1,1,Correct by both eq.
+2167-38786,mall,1,47.416666667,-94.583333333,1,1,Correct by both eq.
+2167-38790,mall,1,47.416666667,-94.583333333,1,1,Correct by both eq.
+2227-20004,mall,1,47.618611111,-94.163611111,0,0,Neither eq. correct
+2227-20005,mall,1,47.618611111,-94.163611111,1,1,Correct by both eq.
+2227-20007,mall,1,47.75,-96.083333333,1,1,Correct by both eq.
+2227-20009,mall,1,47.75,-96.083333333,1,1,Correct by both eq.
+2227-20014,mall,1,47.583333333,-94.25,1,1,Correct by both eq.
+2227-20019,mall,1,47.583333333,-94.25,0,0,Neither eq. correct
+2227-20034,mall,1,47.75,-94.258055556,1,1,Correct by both eq.
+2227-20036,mall,1,47.75,-94.258055556,1,1,Correct by both eq.
+2227-20037,mall,1,47.583333333,-94.916666667,1,1,Correct by both eq.
+2227-20038,mall,1,47.583333333,-94.916666667,1,1,Correct by both eq.
+2227-20039,mall,1,47.583333333,-94.916666667,1,1,Correct by both eq.
+2227-20040,mall,1,47.583333333,-94.916666667,1,1,Correct by both eq.
+2227-20041,mall,1,47.675,-95.525,1,1,Correct by both eq.
+2227-20042,mall,1,47.675,-95.525,1,1,Correct by both eq.
+2227-20044,mall,1,47.583333333,-94.583333333,1,1,Correct by both eq.
+2227-20045,mall,1,47.583333333,-94.583333333,1,1,Correct by both eq.
+2227-20050,mall,1,48.916666667,-96.25,0,0,Neither eq. correct
+2227-20063,mall,1,48.953611111,-96.062777778,1,1,Correct by both eq.
+2227-20064,mall,1,48.953611111,-96.062777778,1,1,Correct by both eq.
+B900101,mall,1,45.038422853782976,-92.88376819064673,1,1,Correct by both eq.
+B900102,mall,1,45.038422853782976,-92.88376819064673,1,1,Correct by both eq.
+B900103,mall,1,45.038422853782976,-92.88376819064673,0,1,MA only correct
+B900104,mall,1,45.038422853782976,-92.88376819064673,1,1,Correct by both eq.
+B900105,mall,1,45.038422853782976,-92.88376819064673,1,0,GS only correct
+B900106,mall,1,45.038422853782976,-92.88376819064673,1,1,Correct by both eq.
+B900107,mall,1,45.038422853782976,-92.88376819064673,1,0,GS only correct
+LW20009,wodu,0,44.705764,-89.906362,1,1,Correct by both eq.
+LW20006,wodu,0,44.705764,-89.906362,0,0,Neither eq. correct
+LW20008,wodu,0,44.705764,-89.906362,1,1,Correct by both eq.
+LW20003,wodu,0,44.705764,-89.906362,1,1,Correct by both eq.
+LW20007,wodu,0,44.705764,-89.906362,1,1,Correct by both eq.
+LW20004,wodu,0,44.705764,-89.906362,1,1,Correct by both eq.
+LW20001,wodu,0,44.705764,-89.906362,1,1,Correct by both eq.
+LW20002,wodu,0,44.705764,-89.906362,1,1,Correct by both eq.
+LW20012,wodu,0,44.075795,-90.359338,1,0,GS only correct
+LW20011,wodu,0,44.705764,-89.906362,1,1,Correct by both eq.
+LW20010,wodu,0,44.705764,-89.906362,1,1,Correct by both eq.
+LW20005,wodu,0,44.705764,-89.906362,1,1,Correct by both eq.
+LW21005,wodu,0,44.703484,-89.819242,1,0,GS only correct
+LW21006,wodu,0,44.703484,-89.819242,1,1,Correct by both eq.
+LW21008,wodu,0,43.36097,-91.18087,1,1,Correct by both eq.
+LW21009,wodu,0,43.36097,-91.18087,1,0,GS only correct
+LW21010,wodu,0,43.36097,-91.18087,1,1,Correct by both eq.
+LW21011,wodu,0,43.36097,-91.18087,1,1,Correct by both eq.
+WI-23-5,wodu,1,42.813929,-88.209663,0,0,Neither eq. correct
+WI-23-6,wodu,1,42.813929,-88.209663,0,0,Neither eq. correct
+WI-23-9,wodu,1,42.63338,-88.159521,0,0,Neither eq. correct
+WI-23-78,wodu,1,43.867819,-91.307089,1,1,Correct by both eq.
+WI-23-79,wodu,1,43.867819,-91.307089,1,1,Correct by both eq.
+WI-23-80,wodu,1,43.867819,-91.307089,1,1,Correct by both eq.
+WI-23-81,wodu,1,43.867819,-91.307089,0,0,Neither eq. correct
+WI-23-83,wodu,1,42.820537,-91.078066,1,1,Correct by both eq.
+WI-23-85,wodu,1,42.820537,-91.078066,0,0,Neither eq. correct
+WI-23-86,wodu,1,43.36097,-91.18087,0,0,Neither eq. correct
+WI-23-87,wodu,1,44.11563,-91.703139,1,1,Correct by both eq.
+WI-23-88,wodu,1,44.11563,-91.703139,1,1,Correct by both eq.
+WI-23-89,wodu,1,44.11563,-91.703139,1,0,GS only correct
+WI-23-90,wodu,1,44.11563,-91.703139,1,1,Correct by both eq.
+MN052,rndu,0,47.67888889,-95.09861111,0,0,Neither eq. correct
+MN053,rndu,0,47.67888889,-95.09861111,0,0,Neither eq. correct
+MN054,rndu,0,47.67250000000001,-95.52499999999999,1,1,Correct by both eq.
+MN055,rndu,0,47.67250000000001,-95.52499999999999,0,0,Neither eq. correct
+MN057,rndu,0,47.69222222000001,-95.52527778,1,1,Correct by both eq.
+MN058,rndu,0,47.69222222000001,-95.52527778,1,1,Correct by both eq.
+MN059,rndu,0,47.64166666999999,-95.24444444000002,0,0,Neither eq. correct
+MN061,rndu,0,47.26861111000001,-93.75472222,1,1,Correct by both eq.
+MN062,rndu,0,47.26861111000001,-93.75472222,1,1,Correct by both eq.
+MN063,rndu,0,47.394444439999994,-95.29472222000001,1,1,Correct by both eq.
+MN064,rndu,0,47.394444439999994,-95.29472222000001,1,1,Correct by both eq.
+MN066,rndu,0,47.53138889,-94.28750000000001,0,0,Neither eq. correct
+MN067,rndu,0,47.309722220000005,-93.77527778,1,1,Correct by both eq.
+MN068,rndu,0,47.309722220000005,-93.77527778,1,1,Correct by both eq.
+MN069,rndu,0,47.309722220000005,-93.77527778,1,1,Correct by both eq.
+MN070,rndu,0,47.68,-96.01111111,1,1,Correct by both eq.
+MN072,rndu,0,47.75,-94.25805556,1,1,Correct by both eq.
+MN074,rndu,0,47.75,-94.25805556,1,1,Correct by both eq.
+MN075,rndu,0,48.491666669999994,-95.89305556000001,1,1,Correct by both eq.
+MN078,rndu,0,47.675000000000004,-95.00833332999999,1,1,Correct by both eq.
+MN079,rndu,0,47.87305556,-94.3425,1,1,Correct by both eq.
+1256-09346,rndu,1,47.916666667,-94.416666667,1,1,Correct by both eq.
+1256-09347,rndu,1,47.916666667,-94.416666667,1,1,Correct by both eq.
+1256-09349,rndu,1,47.916666667,-94.416666667,1,1,Correct by both eq.
+1256-09353,rndu,1,47.916666667,-94.416666667,1,1,Correct by both eq.
+1256-09358,rndu,1,47.583333333,-94.583333333,1,1,Correct by both eq.
+1256-09359,rndu,1,47.75,-94.258055556,1,1,Correct by both eq.
+1256-09360,rndu,1,47.25,-93.75,1,1,Correct by both eq.
+1256-09362,rndu,1,47.25,-93.75,1,1,Correct by both eq.
+1256-09363,rndu,1,47.25,-93.75,1,1,Correct by both eq.
+1256-09365,rndu,1,46.916666667,-94.083333333,1,1,Correct by both eq.
+1256-09368,rndu,1,47.675,-95.525,1,1,Correct by both eq.
+1256-09369,rndu,1,47.675,-95.525,1,1,Correct by both eq.
+1256-09374,rndu,1,47.618055556,-94.801388889,1,1,Correct by both eq.
+1256-09377,rndu,1,47.618055556,-94.801388889,1,1,Correct by both eq.
+1256-09378,rndu,1,48.916666667,-96.25,1,1,Correct by both eq.
+1256-09382,rndu,1,48.953611111,-96.062777778,0,0,Neither eq. correct
+1256-09568,rndu,1,47.583333333,-95.083333333,1,0,GS only correct
+1256-09571,rndu,1,47.583333333,-95.083333333,1,0,GS only correct
+1256-09572,rndu,1,47.583333333,-95.083333333,1,1,Correct by both eq.
+1256-09573,rndu,1,47.583333333,-95.083333333,1,1,Correct by both eq.
+1256-09586,rndu,1,47.75,-96.083333333,1,1,Correct by both eq.
+1256-09587,rndu,1,47.75,-96.083333333,1,1,Correct by both eq.
+1256-09589,rndu,1,47.75,-96.083333333,1,1,Correct by both eq.
+1256-09590,rndu,1,47.508611111,-95.784722222,1,1,Correct by both eq.
+1256-09591,rndu,1,47.508611111,-95.784722222,1,1,Correct by both eq.
+1256-09595,rndu,1,47.508611111,-95.784722222,1,1,Correct by both eq.
+1256-09597,rndu,1,47.508611111,-95.784722222,1,1,Correct by both eq.
+1256-09775,rndu,1,47.583333333,-94.083333333,1,1,Correct by both eq.
+1256-09778,rndu,1,47.583333333,-94.083333333,1,1,Correct by both eq.
+1256-09784,rndu,1,47.583333333,-94.083333333,1,1,Correct by both eq.
+1256-09796,rndu,1,48.916666667,-96.25,1,1,Correct by both eq.
+1256-09799,rndu,1,48.916666667,-96.25,1,1,Correct by both eq.

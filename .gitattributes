@@ -1,0 +1,5 @@
+# Enforce LF line endings 
+* text=auto eol=lf
+*.R    text eol=lf
+*.csv  text eol=lf
+*.Rmd  text eol=lf

@@ -1,0 +1,7 @@
+species,equation,all_samples,new_samples
+mall,gs_correct,146/199 (73%),99/121 (82%)
+mall,ma_correct,142/199 (71%),95/121 (79%)
+wodu,gs_correct,25/32 (78%),8/14 (57%)
+wodu,ma_correct,21/32 (66%),7/14 (50%)
+rndu,gs_correct,47/53 (89%),31/32 (97%)
+rndu,ma_correct,45/53 (85%),29/32 (91%)

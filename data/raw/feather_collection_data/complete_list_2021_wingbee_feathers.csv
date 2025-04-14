@@ -1,0 +1,609 @@
+fws_id,species,as,state,county,collection_date,as_name,age,sex
+M480377,MALL,8,Wisconsin,Buffalo,10/3/2021,immature male,hy,male
+M480379,MALL,8,Wisconsin,Buffalo,11/1/2021,immature male,hy,male
+M480380,MALL,8,Wisconsin,Buffalo,10/16/2021,immature male,hy,male
+M480382,MALL,7,Wisconsin,Buffalo,11/1/2021,adult male,ahy,male
+M480388,MALL,4,Wisconsin,Buffalo,11/1/2021,adult female,ahy,female
+M480390,MALL,5,Wisconsin,Buffalo,11/5/2021,immature female,hy,female
+M497008,MALL,8,Wisconsin,Brown,10/16/2021,immature male,hy,male
+M497009,MALL,8,Wisconsin,Brown,10/16/2021,immature male,hy,male
+M497010,MALL,8,Wisconsin,Brown,11/18/2021,immature male,hy,male
+M497015,MALL,7,Wisconsin,Brown,11/17/2021,adult male,ahy,male
+M497016,MALL,5,Wisconsin,Brown,11/13/2021,immature female,hy,female
+M497017,MALL,5,Wisconsin,Brown,11/17/2021,immature female,hy,female
+M511589,MALL,5,Wisconsin,La Crosse,11/6/2021,immature female,hy,female
+M511590,MALL,7,Wisconsin,La Crosse,11/6/2021,adult male,ahy,male
+M511593,MALL,5,Wisconsin,La Crosse,11/6/2021,immature female,hy,female
+M511600,MALL,2,Wisconsin,Brown,10/3/2021,immature unknown,hy,unknown
+M511645,MALL,5,Wisconsin,Brown,10/2/2021,immature female,hy,female
+M511691,MALL,8,Wisconsin,Outagamie,10/24/2021,immature male,hy,male
+M511733,MALL,7,Wisconsin,Buffalo,10/16/2021,adult male,ahy,male
+M516189,MALL,4,Wisconsin,Green Lake,10/2/2021,adult female,ahy,female
+M516191,MALL,5,Wisconsin,Green Lake,10/2/2021,immature female,hy,female
+M516194,MALL,4,Wisconsin,Green Lake,10/3/2021,adult female,ahy,female
+M516196,MALL,5,Wisconsin,Green Lake,10/9/2021,immature female,hy,female
+M516422,MALL,8,Wisconsin,Outagamie,9/25/2021,immature male,hy,male
+M516425,MALL,8,Wisconsin,Outagamie,9/25/2021,immature male,hy,male
+M516426,MALL,8,Wisconsin,Outagamie,9/26/2021,immature male,hy,male
+M516427,MALL,5,Wisconsin,Outagamie,9/26/2021,immature female,hy,female
+M518439,MALL,5,Minnesota,Nicollet,9/26/2021,immature,hy,female
+M518791,MALL,7,Wisconsin,Marathon,10/15/2021,adult male,ahy,male
+M518807,MALL,8,Wisconsin,Crawford,11/21/2021,immature male,hy,male
+M520061,MALL,8,Wisconsin,Outagamie,11/4/2021,immature male,hy,male
+M520062,MALL,8,Wisconsin,Outagamie,11/4/2021,immature male,hy,male
+M520117,MALL,5,Wisconsin,Outagamie,11/4/2021,immature female,hy,female
+M520120,MALL,8,Wisconsin,Outagamie,11/3/2021,immature male,hy,male
+M521941,MALL,8,Wisconsin,Manitowoc,10/10/2021,immature male,hy,male
+M521942,MALL,8,Wisconsin,Manitowoc,10/10/2021,immature male,hy,male
+M521943,MALL,8,Wisconsin,Manitowoc,10/10/2021,immature male,hy,male
+M521945,MALL,4,Wisconsin,Manitowoc,10/10/2021,adult female,ahy,female
+M521972,MALL,8,Wisconsin,Sheboygan,10/23/2021,immature male,hy,male
+M521973,MALL,8,Wisconsin,Sheboygan,10/23/2021,immature male,hy,male
+M521977,MALL,8,Wisconsin,Sheboygan,10/30/2021,immature male,hy,male
+M521978,MALL,8,Wisconsin,Sheboygan,10/30/2021,immature male,hy,male
+M521979,MALL,8,Wisconsin,Sheboygan,10/30/2021,immature male,hy,male
+M521980,MALL,8,Wisconsin,Sheboygan,10/30/2021,immature male,hy,male
+M522205,MALL,8,Wisconsin,Dane,11/18/2021,immature male,hy,male
+M522207,MALL,4,Wisconsin,Dane,11/18/2021,adult female,ahy,female
+M522208,MALL,8,Wisconsin,Dane,11/18/2021,immature male,hy,male
+M522210,MALL,5,Wisconsin,Columbia,11/14/2021,immature female,hy,female
+M522213,MALL,8,Wisconsin,Columbia,11/13/2021,immature male,hy,male
+M522214,MALL,5,Wisconsin,Columbia,11/13/2021,immature female,hy,female
+M522220,MALL,8,Wisconsin,Sawyer,9/25/2021,immature male,hy,male
+M522235,MALL,7,Wisconsin,Columbia,11/13/2021,adult male,ahy,male
+M522237,MALL,5,Wisconsin,Sawyer,9/25/2021,immature female,hy,female
+M522238,MALL,5,Wisconsin,Sawyer,9/25/2021,immature female,hy,female
+M523108,MALL,8,Wisconsin,Washburn,9/25/2021,immature male,hy,male
+M525008,MALL,7,Wisconsin,Marathon,10/15/2021,adult male,ahy,male
+M525025,MALL,8,Wisconsin,Crawford,11/21/2021,immature male,hy,male
+M525038,MALL,7,Wisconsin,Marathon,10/15/2021,adult male,ahy,male
+M525040,MALL,8,Wisconsin,Marathon,10/16/2021,immature male,hy,male
+M525049,MALL,7,Wisconsin,Marathon,10/15/2021,adult male,ahy,male
+M526320,MALL,4,Wisconsin,Waushara,11/2/2021,adult female,ahy,female
+M526322,RNDU,8,Wisconsin,Waushara,10/22/2021,immature male,hy,male
+M529518,MALL,5,Wisconsin,Brown,10/3/2021,immature female,hy,female
+M529555,RNDU,8,Wisconsin,Fond Du Lac,11/20/2021,immature male,hy,male
+M529562,MALL,7,Wisconsin,Fond Du Lac,11/28/2021,adult male,ahy,male
+M529576,MALL,7,Wisconsin,Fond Du Lac,12/4/2021,adult male,ahy,male
+M529685,MALL,8,Wisconsin,Trempealeau,11/2/2021,immature male,hy,male
+M529686,MALL,4,Wisconsin,Trempealeau,11/2/2021,adult female,ahy,female
+M529687,MALL,4,Wisconsin,Trempealeau,11/2/2021,adult female,ahy,female
+M529688,MALL,5,Wisconsin,Trempealeau,11/2/2021,immature female,hy,female
+M529690,MALL,8,Wisconsin,Trempealeau,11/1/2021,immature male,hy,male
+M529697,MALL,8,Wisconsin,Trempealeau,10/21/2021,immature male,hy,male
+M529801,RNDU,6,Wisconsin,Oneida,10/15/2021,unknown female,unknown,female
+M529851,RNDU,5,Wisconsin,La Crosse,11/13/2021,immature female,hy,female
+M529855,RNDU,5,Wisconsin,La Crosse,11/13/2021,immature female,hy,female
+M529878,RNDU,4,Wisconsin,La Crosse,11/13/2021,adult female,ahy,female
+M529883,MALL,5,Wisconsin,La Crosse,10/24/2021,immature female,hy,female
+M529884,RNDU,5,Wisconsin,La Crosse,10/24/2021,immature female,hy,female
+M529891,MALL,8,Wisconsin,Dodge,10/7/2021,immature male,hy,male
+M529902,MALL,7,Wisconsin,Jefferson,11/5/2021,adult male,ahy,male
+M529903,MALL,7,Wisconsin,Jefferson,11/5/2021,adult male,ahy,male
+M529904,MALL,4,Wisconsin,Jefferson,11/5/2021,adult female,ahy,female
+M529905,MALL,5,Wisconsin,Dodge,11/12/2021,immature female,hy,female
+M529906,MALL,8,Wisconsin,Dodge,11/12/2021,immature male,hy,male
+M529907,MALL,5,Wisconsin,Dodge,11/12/2021,immature female,hy,female
+M529908,MALL,5,Wisconsin,Dodge,11/12/2021,immature female,hy,female
+M529910,MALL,8,Wisconsin,Dodge,11/13/2021,immature male,hy,male
+M531360,MALL,8,Wisconsin,Dodge,10/18/2021,immature male,hy,male
+M531361,MALL,8,Wisconsin,Dodge,10/17/2021,immature male,hy,male
+M531363,MALL,8,Wisconsin,Dodge,10/17/2021,immature male,hy,male
+M531364,MALL,4,Wisconsin,Dodge,10/17/2021,adult female,ahy,female
+M531379,MALL,8,Wisconsin,Dodge,10/18/2021,immature male,hy,male
+M531380,MALL,8,Wisconsin,Dodge,10/18/2021,immature male,hy,male
+M532697,MALL,5,Wisconsin,Fond Du Lac,11/16/2021,immature female,hy,female
+M533548,MALL,8,Wisconsin,Fond Du Lac,10/2/2021,immature male,hy,male
+M533575,MALL,7,Wisconsin,Fond Du Lac,11/17/2021,adult male,ahy,male
+M533624,MALL,5,Wisconsin,Columbia,11/20/2021,immature female,hy,female
+M533625,MALL,5,Wisconsin,Columbia,11/21/2021,immature female,hy,female
+M533626,MALL,8,Wisconsin,Columbia,11/21/2021,immature male,hy,male
+M533627,MALL,5,Wisconsin,Columbia,11/21/2021,immature female,hy,female
+M533628,MALL,8,Wisconsin,Columbia,11/21/2021,immature male,hy,male
+M533629,MALL,5,Wisconsin,Columbia,11/24/2021,immature female,hy,female
+M533630,MALL,5,Wisconsin,Columbia,11/24/2021,immature female,hy,female
+M534421,MALL,7,Wisconsin,Marathon,10/21/2021,adult male,ahy,male
+M534428,MALL,5,Wisconsin,Buffalo,12/5/2021,immature female,hy,female
+M534585,MALL,8,Wisconsin,Adams,11/21/2021,immature male,hy,male
+M534586,MALL,8,Wisconsin,Adams,12/3/2021,immature male,hy,male
+M534588,MALL,5,Wisconsin,Adams,12/4/2021,immature female,hy,female
+M534619,MALL,8,Wisconsin,Adams,11/25/2021,immature male,hy,male
+M534620,MALL,8,Wisconsin,Adams,11/28/2021,immature male,hy,male
+M534844,RNDU,8,Wisconsin,Waushara,10/22/2021,immature male,hy,male
+M534853,MALL,8,Wisconsin,Waushara,10/2/2021,immature male,hy,male
+M534860,MALL,4,Wisconsin,Waushara,11/2/2021,adult female,ahy,female
+M534863,MALL,5,Wisconsin,Vernon,10/4/2021,immature female,hy,female
+M534865,MALL,5,Wisconsin,Vernon,10/5/2021,immature female,hy,female
+M534870,MALL,8,Wisconsin,Vernon,10/21/2021,immature male,hy,male
+M534874,MALL,7,Wisconsin,Vernon,10/29/2021,adult male,ahy,male
+M534876,MALL,7,Wisconsin,Vernon,10/29/2021,adult male,ahy,male
+M534877,MALL,7,Wisconsin,Vernon,10/31/2021,adult male,ahy,male
+M534885,MALL,4,Wisconsin,Vernon,11/13/2021,adult female,ahy,female
+M534887,MALL,7,Wisconsin,Vernon,11/13/2021,adult male,ahy,male
+M534920,MALL,8,Wisconsin,Walworth,11/26/2021,immature male,hy,male
+M534921,MALL,7,Wisconsin,Portage,11/21/2021,adult male,ahy,male
+M534922,MALL,5,Wisconsin,Portage,11/21/2021,immature female,hy,female
+M534924,MALL,7,Wisconsin,Walworth,11/24/2021,adult male,ahy,male
+M534928,MALL,7,Wisconsin,Walworth,11/19/2021,adult male,ahy,male
+M534936,MALL,8,Wisconsin,Walworth,10/28/2021,immature male,hy,male
+M534937,MALL,8,Wisconsin,Walworth,10/28/2021,immature male,hy,male
+M544464,MALL,9,Wisconsin,Marathon,9/27/2021,unknown male,unknown,male
+M545210,MALL,8,Wisconsin,Jefferson,10/18/2021,immature male,hy,male
+M545221,MALL,8,Wisconsin,Outagamie,10/3/2021,immature male,hy,male
+M545222,MALL,8,Wisconsin,Outagamie,10/3/2021,immature male,hy,male
+M549063,MALL,8,Wisconsin,Polk,10/26/2021,immature male,hy,male
+M549064,MALL,4,Wisconsin,Polk,10/26/2021,adult female,ahy,female
+M549065,MALL,5,Wisconsin,Polk,10/26/2021,immature female,hy,female
+M549066,MALL,7,Wisconsin,Polk,10/29/2021,adult male,ahy,male
+M549068,MALL,7,Wisconsin,Polk,10/29/2021,adult male,ahy,male
+M549069,MALL,8,Wisconsin,Polk,11/2/2021,immature male,hy,male
+M549071,MALL,7,Wisconsin,Pierce,11/21/2021,adult male,ahy,male
+M549335,RNDU,7,Wisconsin,Marathon,10/17/2021,adult male,ahy,male
+M549360,MALL,8,Wisconsin,Marathon,10/1/2021,immature male,hy,male
+M549393,MALL,5,Wisconsin,Fond Du Lac,10/6/2021,immature female,hy,female
+M549882,MALL,5,Wisconsin,Outagamie,9/26/2021,immature female,hy,female
+M549883,MALL,8,Wisconsin,Outagamie,9/27/2021,immature male,hy,male
+M549901,MALL,4,Wisconsin,Grant,10/22/2021,adult female,ahy,female
+M549907,MALL,8,Wisconsin,Grant,11/11/2021,immature male,hy,male
+M549922,RNDU,5,Wisconsin,Manitowoc,10/16/2021,immature female,hy,female
+M549923,MALL,5,Wisconsin,Manitowoc,10/20/2021,immature female,hy,female
+M549926,MALL,5,Wisconsin,Manitowoc,10/26/2021,immature female,hy,female
+M549929,MALL,7,Wisconsin,Manitowoc,11/3/2021,adult male,ahy,male
+M549930,MALL,7,Wisconsin,Manitowoc,11/3/2021,adult male,ahy,male
+M549933,MALL,5,Wisconsin,Manitowoc,11/2/2021,immature female,hy,female
+M549936,MALL,8,Wisconsin,Manitowoc,11/4/2021,immature male,hy,male
+M550032,MALL,8,Wisconsin,Vernon,10/22/2021,immature male,hy,male
+M550034,MALL,5,Wisconsin,Vernon,10/22/2021,immature female,hy,female
+M550148,RNDU,8,Wisconsin,Brown,10/20/2021,immature male,hy,male
+M550161,MALL,7,Wisconsin,Crawford,10/16/2021,adult male,ahy,male
+M550167,MALL,5,Wisconsin,Crawford,10/30/2021,immature female,hy,female
+M550171,MALL,5,Wisconsin,Crawford,11/3/2021,immature female,hy,female
+M550172,MALL,8,Wisconsin,Crawford,11/3/2021,immature male,hy,male
+M550180,MALL,5,Wisconsin,Crawford,10/23/2021,immature female,hy,female
+M550187,RNDU,7,Wisconsin,Buffalo,10/22/2021,adult male,ahy,male
+M550251,MALL,5,Wisconsin,La Crosse,11/6/2021,immature female,hy,female
+M550451,MALL,5,Wisconsin,Waupaca,10/2/2021,immature female,hy,female
+M550452,MALL,8,Wisconsin,Waukesha,10/17/2021,immature male,hy,male
+M551486,MALL,5,Wisconsin,Fond Du Lac,10/2/2021,immature female,hy,female
+M551629,MALL,5,Wisconsin,Marathon,10/30/2021,immature female,hy,female
+M551630,MALL,7,Wisconsin,Marathon,10/19/2021,adult male,ahy,male
+M551631,MALL,8,Wisconsin,Marathon,10/31/2021,immature male,hy,male
+M551632,MALL,5,Wisconsin,Marathon,10/31/2021,immature female,hy,female
+M551634,MALL,8,Wisconsin,Marathon,11/1/2021,immature male,hy,male
+M551635,MALL,5,Wisconsin,Marathon,10/26/2021,immature female,hy,female
+M551636,MALL,8,Wisconsin,Marathon,10/26/2021,immature male,hy,male
+M551637,MALL,5,Wisconsin,Marathon,10/26/2021,immature female,hy,female
+M551712,MALL,7,Wisconsin,Marathon,9/25/2021,adult male,ahy,male
+M551716,MALL,7,Wisconsin,Marquette,10/5/2021,adult male,ahy,male
+M551720,RNDU,5,Wisconsin,Portage,10/17/2021,immature female,hy,female
+M551722,MALL,5,Wisconsin,Marathon,10/21/2021,immature female,hy,female
+M551728,MALL,5,Wisconsin,Marquette,11/12/2021,immature female,hy,female
+M551743,MALL,7,Wisconsin,Waukesha,11/25/2021,adult male,ahy,male
+M551744,MALL,4,Wisconsin,Waukesha,11/25/2021,adult female,ahy,female
+M551764,RNDU,7,Wisconsin,Walworth,10/23/2021,adult male,ahy,male
+M551767,RNDU,7,Wisconsin,Walworth,10/23/2021,adult male,ahy,male
+M551768,RNDU,7,Wisconsin,Walworth,10/23/2021,adult male,ahy,male
+M551769,RNDU,5,Wisconsin,Walworth,10/23/2021,immature female,hy,female
+M551831,MALL,7,Wisconsin,Oneida,9/25/2021,adult male,ahy,male
+M551832,MALL,8,Wisconsin,Oneida,9/25/2021,immature male,hy,male
+M551835,RNDU,8,Wisconsin,Oneida,9/25/2021,immature male,hy,male
+M551836,MALL,8,Wisconsin,Oneida,9/26/2021,immature male,hy,male
+M551837,MALL,8,Wisconsin,Oneida,9/26/2021,immature male,hy,male
+M551892,MALL,8,Wisconsin,Eau Claire,11/12/2021,immature male,hy,male
+M551894,MALL,7,Wisconsin,Eau Claire,11/12/2021,adult male,ahy,male
+M551929,RNDU,8,Wisconsin,Vernon,11/17/2021,immature male,hy,male
+M551930,MALL,8,Wisconsin,Vernon,11/17/2021,immature male,hy,male
+M551933,MALL,8,Wisconsin,Marquette,12/4/2021,immature male,hy,male
+M551934,MALL,5,Wisconsin,Marquette,12/4/2021,immature female,hy,female
+M552691,RNDU,7,Wisconsin,La Crosse,10/18/2021,adult male,ahy,male
+M552692,MALL,7,Wisconsin,Marathon,10/21/2021,adult male,ahy,male
+M552694,MALL,4,Wisconsin,La Crosse,11/3/2021,adult female,ahy,female
+M552695,RNDU,7,Wisconsin,La Crosse,11/3/2021,adult male,ahy,male
+M552705,RNDU,5,Wisconsin,La Crosse,10/23/2021,immature female,hy,female
+M552707,RNDU,8,Wisconsin,Vernon,10/25/2021,immature male,hy,male
+M552711,MALL,5,Wisconsin,Green Lake,10/7/2021,immature female,hy,female
+M552846,MALL,8,Wisconsin,Buffalo,10/16/2021,immature male,hy,male
+M552849,MALL,7,Wisconsin,Buffalo,10/16/2021,adult male,ahy,male
+M552851,RNDU,5,Wisconsin,Shawano,10/16/2021,immature female,hy,female
+M552852,RNDU,5,Wisconsin,Shawano,10/16/2021,immature female,hy,female
+M552886,MALL,7,Wisconsin,Columbia,10/4/2021,adult male,ahy,male
+M552887,MALL,5,Wisconsin,Columbia,10/5/2021,immature female,hy,female
+M552915,MALL,4,Wisconsin,Waushara,10/2/2021,adult female,ahy,female
+M552954,RNDU,8,Wisconsin,Waupaca,9/25/2021,immature male,hy,male
+M553331,MALL,7,Wisconsin,Rock,12/4/2021,adult male,ahy,male
+M553333,MALL,7,Wisconsin,Rock,12/1/2021,adult male,ahy,male
+M553336,MALL,7,Wisconsin,Rock,11/30/2021,adult male,ahy,male
+M556613,MALL,7,Wisconsin,Portage,12/3/2021,adult male,ahy,male
+M556754,MALL,5,Wisconsin,Dane,11/26/2021,immature female,hy,female
+M558168,MALL,5,Wisconsin,Winnebago,11/18/2021,immature female,hy,female
+M558169,MALL,8,Wisconsin,Winnebago,11/19/2021,immature male,hy,male
+M558170,MALL,5,Wisconsin,Winnebago,11/19/2021,immature female,hy,female
+M558171,MALL,8,Wisconsin,Winnebago,11/19/2021,immature male,hy,male
+M558653,MALL,8,Wisconsin,Waupaca,10/2/2021,immature male,hy,male
+M558666,MALL,5,Wisconsin,Oconto,10/20/2021,immature female,hy,female
+M558669,MALL,4,Wisconsin,Dodge,11/11/2021,adult female,ahy,female
+M558670,MALL,7,Wisconsin,Dodge,11/11/2021,adult male,ahy,male
+M558862,MALL,5,Wisconsin,Outagamie,10/1/2021,immature female,hy,female
+M558897,MALL,5,Wisconsin,Dane,10/2/2021,immature female,hy,female
+M558942,MALL,8,Wisconsin,Calumet,10/4/2021,immature male,hy,male
+M558943,MALL,8,Wisconsin,Calumet,10/4/2021,immature male,hy,male
+M558984,MALL,8,Wisconsin,Portage,9/25/2021,immature male,hy,male
+M558985,MALL,8,Wisconsin,Portage,9/25/2021,immature male,hy,male
+M558998,MALL,8,Wisconsin,Portage,12/3/2021,immature male,hy,male
+M558999,MALL,8,Wisconsin,Portage,12/3/2021,immature male,hy,male
+M559000,MALL,8,Wisconsin,Portage,12/3/2021,immature male,hy,male
+M559523,MALL,8,Wisconsin,Dane,10/5/2021,immature male,hy,male
+M559525,MALL,7,Wisconsin,Dane,11/3/2021,adult male,ahy,male
+M559526,MALL,7,Wisconsin,Dane,11/3/2021,adult male,ahy,male
+M559744,MALL,8,Wisconsin,Calumet,10/2/2021,immature male,hy,male
+M559867,MALL,5,Wisconsin,Door,10/7/2021,immature female,hy,female
+M559875,MALL,8,Wisconsin,La Crosse,11/18/2021,immature male,hy,male
+M559876,MALL,4,Wisconsin,La Crosse,11/18/2021,adult female,ahy,female
+M559877,MALL,8,Wisconsin,La Crosse,11/18/2021,immature male,hy,male
+M563728,MALL,5,Wisconsin,Buffalo,11/5/2021,immature female,hy,female
+M563729,MALL,5,Wisconsin,Buffalo,11/14/2021,immature female,hy,female
+M563730,MALL,8,Wisconsin,Buffalo,11/14/2021,immature male,hy,male
+M563731,MALL,8,Wisconsin,Buffalo,11/15/2021,immature male,hy,male
+M563732,MALL,7,Wisconsin,Buffalo,11/15/2021,adult male,ahy,male
+M563733,MALL,8,Wisconsin,Buffalo,11/15/2021,immature male,hy,male
+M564311,MALL,4,Wisconsin,Rusk,9/30/2021,adult female,ahy,female
+M565544,MALL,8,Wisconsin,Menominee,9/26/2021,immature male,hy,male
+M565545,MALL,5,Wisconsin,Menominee,9/25/2021,immature female,hy,female
+M565546,MALL,8,Wisconsin,Menominee,9/26/2021,immature male,hy,male
+M565547,MALL,5,Wisconsin,Menominee,9/25/2021,immature female,hy,female
+M565558,MALL,5,Wisconsin,Adams,10/2/2021,immature female,hy,female
+M565580,MALL,8,Wisconsin,Oconto,10/2/2021,immature male,hy,male
+M565809,MALL,8,Wisconsin,Juneau,10/3/2021,immature male,hy,male
+M565866,MALL,4,Wisconsin,Trempealeau,11/11/2021,adult female,ahy,female
+M566530,RNDU,5,Wisconsin,Waupaca,10/24/2021,immature female,hy,female
+M568876,MALL,7,Wisconsin,Brown,11/2/2021,adult male,ahy,male
+M568877,MALL,8,Wisconsin,Brown,11/2/2021,immature male,hy,male
+M571046,MALL,5,Wisconsin,Rusk,11/6/2021,immature female,hy,female
+M571815,MALL,9,Wisconsin,Brown,11/2/2021,unknown male,unknown,male
+M577410,MALL,5,Wisconsin,Outagamie,10/7/2021,immature female,hy,female
+M577411,MALL,5,Wisconsin,Outagamie,10/7/2021,immature female,hy,female
+M577419,MALL,8,Wisconsin,Outagamie,10/9/2021,immature male,hy,male
+M577421,MALL,8,Wisconsin,Outagamie,10/9/2021,immature male,hy,male
+M577446,MALL,5,Wisconsin,Outagamie,10/16/2021,immature female,hy,female
+M577447,MALL,5,Wisconsin,Outagamie,10/16/2021,immature female,hy,female
+M577455,MALL,8,Wisconsin,Outagamie,10/27/2021,immature male,hy,male
+M577459,MALL,8,Wisconsin,Outagamie,10/28/2021,immature male,hy,male
+M577463,MALL,8,Wisconsin,Outagamie,10/29/2021,immature male,hy,male
+M577464,MALL,8,Wisconsin,Outagamie,10/29/2021,immature male,hy,male
+M577465,MALL,8,Wisconsin,Outagamie,10/29/2021,immature male,hy,male
+M577466,MALL,8,Wisconsin,Outagamie,10/30/2021,immature male,hy,male
+M577496,MALL,8,Wisconsin,Outagamie,10/24/2021,immature male,hy,male
+M577498,MALL,8,Wisconsin,Outagamie,10/24/2021,immature male,hy,male
+M578409,MALL,8,Wisconsin,Manitowoc,9/4/2021,immature male,hy,male
+M578422,MALL,5,Wisconsin,Manitowoc,10/17/2021,immature female,hy,female
+M578423,MALL,8,Wisconsin,Manitowoc,10/17/2021,immature male,hy,male
+M578424,MALL,7,Wisconsin,Manitowoc,10/17/2021,adult male,ahy,male
+M578425,MALL,7,Wisconsin,Manitowoc,10/20/2021,adult male,ahy,male
+M578426,MALL,7,Wisconsin,Manitowoc,10/20/2021,adult male,ahy,male
+M578427,MALL,5,Wisconsin,Manitowoc,10/19/2021,immature female,hy,female
+M578428,MALL,8,Wisconsin,Manitowoc,10/19/2021,immature male,hy,male
+M578429,MALL,8,Wisconsin,Manitowoc,10/19/2021,immature male,hy,male
+M578431,MALL,8,Wisconsin,Manitowoc,10/19/2021,immature male,hy,male
+M578436,MALL,8,Wisconsin,Manitowoc,10/3/2021,immature male,hy,male
+M578437,MALL,5,Wisconsin,Manitowoc,10/21/2021,immature female,hy,female
+M578438,MALL,4,Wisconsin,Manitowoc,10/21/2021,adult female,ahy,female
+M578496,MALL,7,Wisconsin,Manitowoc,11/1/2021,adult male,ahy,male
+M583688,MALL,5,Wisconsin,Buffalo,11/30/2021,immature female,hy,female
+M583738,MALL,8,Wisconsin,Buffalo,10/22/2021,immature male,hy,male
+M583739,MALL,5,Wisconsin,Trempealeau,10/24/2021,immature female,hy,female
+M583740,MALL,5,Wisconsin,Buffalo,10/25/2021,immature female,hy,female
+M589741,MALL,5,Wisconsin,La Crosse,11/4/2021,immature female,hy,female
+M589742,MALL,8,Wisconsin,La Crosse,11/4/2021,immature male,hy,male
+M589745,MALL,8,Wisconsin,La Crosse,11/4/2021,immature male,hy,male
+M589746,MALL,8,Wisconsin,La Crosse,11/4/2021,immature male,hy,male
+M589747,MALL,7,Wisconsin,La Crosse,11/5/2021,adult male,ahy,male
+M589748,MALL,8,Wisconsin,La Crosse,11/5/2021,immature male,hy,male
+M589749,MALL,8,Wisconsin,La Crosse,11/5/2021,immature male,hy,male
+M589751,MALL,8,Wisconsin,La Crosse,11/5/2021,immature male,hy,male
+M589756,MALL,8,Wisconsin,La Crosse,11/1/2021,immature male,hy,male
+M589758,MALL,8,Wisconsin,La Crosse,11/1/2021,immature male,hy,male
+M589759,MALL,7,Wisconsin,La Crosse,11/1/2021,adult male,ahy,male
+M589760,MALL,5,Wisconsin,La Crosse,11/2/2021,immature female,hy,female
+M589761,MALL,8,Wisconsin,La Crosse,11/2/2021,immature male,hy,male
+M589772,MALL,8,Wisconsin,La Crosse,11/2/2021,immature male,hy,male
+M589785,MALL,8,Wisconsin,La Crosse,11/18/2021,immature male,hy,male
+M589790,MALL,8,Wisconsin,La Crosse,11/17/2021,immature male,hy,male
+M589793,RNDU,4,Wisconsin,La Crosse,11/17/2021,adult female,ahy,female
+M589794,RNDU,8,Wisconsin,La Crosse,11/17/2021,immature male,hy,male
+M590983,MALL,7,Wisconsin,Fond Du Lac,10/16/2021,adult male,ahy,male
+M590990,MALL,5,Wisconsin,Fond Du Lac,10/31/2021,immature female,hy,female
+M590991,MALL,8,Wisconsin,Fond Du Lac,10/31/2021,immature male,hy,male
+M590992,MALL,7,Wisconsin,Fond Du Lac,10/31/2021,adult male,ahy,male
+M590993,MALL,7,Wisconsin,Fond Du Lac,10/31/2021,adult male,ahy,male
+M591000,RNDU,8,Wisconsin,Fond Du Lac,10/19/2021,immature male,hy,male
+M591056,MALL,2,Wisconsin,Brown,10/3/2021,immature unknown,hy,unknown
+M591057,MALL,8,Wisconsin,Brown,10/2/2021,immature male,hy,male
+M591059,MALL,6,Wisconsin,Brown,10/6/2021,unknown female,unknown,female
+M591060,MALL,9,Wisconsin,Brown,10/5/2021,unknown male,unknown,male
+M591061,MALL,5,Wisconsin,Brown,10/5/2021,immature female,hy,female
+M591062,MALL,8,Wisconsin,Brown,10/6/2021,immature male,hy,male
+M591141,MALL,7,Wisconsin,Unknown,10/4/2021,adult male,ahy,male
+M591145,MALL,7,Wisconsin,Unknown,10/5/2021,adult male,ahy,male
+M591152,MALL,7,Wisconsin,Crawford,12/4/2021,adult male,ahy,male
+M591153,MALL,7,Wisconsin,Crawford,12/4/2021,adult male,ahy,male
+M591155,RNDU,8,Wisconsin,Crawford,11/27/2021,immature male,hy,male
+M591156,RNDU,8,Wisconsin,Crawford,11/27/2021,immature male,hy,male
+M591157,RNDU,5,Wisconsin,Crawford,11/27/2021,immature female,hy,female
+M591158,RNDU,8,Wisconsin,Crawford,11/23/2021,immature male,hy,male
+M591159,RNDU,8,Wisconsin,Crawford,11/27/2021,immature male,hy,male
+M591163,MALL,7,Wisconsin,Crawford,11/23/2021,adult male,ahy,male
+M591170,MALL,5,Wisconsin,Crawford,11/19/2021,immature female,hy,female
+M591171,MALL,5,Wisconsin,Crawford,11/17/2021,immature female,hy,female
+M591172,MALL,8,Wisconsin,Crawford,11/17/2021,immature male,hy,male
+M591173,RNDU,8,Wisconsin,Crawford,11/6/2021,immature male,hy,male
+M591174,RNDU,8,Wisconsin,Crawford,11/6/2021,immature male,hy,male
+M591180,MALL,7,Wisconsin,Crawford,11/5/2021,adult male,ahy,male
+M591181,MALL,4,Wisconsin,Crawford,11/5/2021,adult female,ahy,female
+M591182,MALL,7,Wisconsin,Crawford,11/5/2021,adult male,ahy,male
+M591183,MALL,8,Wisconsin,Crawford,11/5/2021,immature male,hy,male
+M596701,MALL,5,Wisconsin,Brown,10/2/2021,immature female,hy,female
+M596702,MALL,8,Wisconsin,Brown,10/2/2021,immature male,hy,male
+M596703,MALL,5,Wisconsin,Brown,10/2/2021,immature female,hy,female
+M596704,MALL,8,Wisconsin,Brown,10/2/2021,immature male,hy,male
+M596758,MALL,5,Wisconsin,Marathon,9/25/2021,immature female,hy,female
+M596764,MALL,4,Wisconsin,Marathon,9/26/2021,adult female,ahy,female
+M596794,MALL,4,Wisconsin,Columbia,10/23/2021,adult female,ahy,female
+M596796,MALL,8,Wisconsin,Crawford,11/2/2021,immature male,hy,male
+M596800,MALL,8,Wisconsin,Dane,10/30/2021,immature male,hy,male
+M596941,MALL,8,Wisconsin,Dodge,11/14/2021,immature male,hy,male
+M596943,MALL,5,Wisconsin,Dodge,11/18/2021,immature female,hy,female
+M596947,MALL,7,Wisconsin,Dodge,11/16/2021,adult male,ahy,male
+M596965,MALL,8,Wisconsin,Dodge,10/16/2021,immature male,hy,male
+M596967,MALL,4,Wisconsin,Dodge,10/16/2021,adult female,ahy,female
+M596968,MALL,8,Wisconsin,Dodge,10/20/2021,immature male,hy,male
+M596969,MALL,4,Wisconsin,Dodge,10/20/2021,adult female,ahy,female
+M596971,MALL,5,Wisconsin,Dodge,10/31/2021,immature female,hy,female
+M596972,MALL,5,Wisconsin,Dodge,11/3/2021,immature female,hy,female
+M597027,MALL,8,Wisconsin,Vernon,11/1/2021,immature male,hy,male
+M597029,MALL,7,Wisconsin,Vernon,11/1/2021,adult male,ahy,male
+M597030,MALL,4,Wisconsin,Vernon,11/1/2021,adult female,ahy,female
+M597032,MALL,5,Wisconsin,Vernon,11/2/2021,immature female,hy,female
+M597033,MALL,7,Wisconsin,Vernon,11/2/2021,adult male,ahy,male
+M597038,MALL,5,Wisconsin,Winnebago,10/17/2021,immature female,hy,female
+M597039,MALL,4,Wisconsin,Winnebago,10/16/2021,adult female,ahy,female
+M597040,MALL,8,Wisconsin,Winnebago,10/16/2021,immature male,hy,male
+M597042,MALL,5,Wisconsin,Ashland,9/25/2021,immature female,hy,female
+M597050,RNDU,5,Wisconsin,Ashland,11/2/2021,immature female,hy,female
+M597052,MALL,8,Wisconsin,Ashland,10/13/2021,immature male,hy,male
+M597057,MALL,5,Wisconsin,Ashland,10/26/2021,immature female,hy,female
+M597058,RNDU,8,Wisconsin,Ashland,10/26/2021,immature male,hy,male
+M597059,MALL,8,Wisconsin,Ashland,9/25/2021,immature male,hy,male
+M597060,MALL,7,Wisconsin,Ashland,11/2/2021,adult male,ahy,male
+M597063,RNDU,4,Wisconsin,Ashland,10/19/2021,adult female,ahy,female
+M597064,MALL,5,Wisconsin,Ashland,10/19/2021,immature female,hy,female
+M597065,RNDU,5,Wisconsin,Ashland,10/20/2021,immature female,hy,female
+M597067,RNDU,5,Wisconsin,Ashland,11/2/2021,immature female,hy,female
+M597068,RNDU,5,Wisconsin,Ashland,11/2/2021,immature female,hy,female
+M597069,RNDU,8,Wisconsin,Ashland,11/2/2021,immature male,hy,male
+M597072,MALL,5,Wisconsin,Ashland,11/3/2021,immature female,hy,female
+M597075,RNDU,8,Wisconsin,Ashland,10/13/2021,immature male,hy,male
+M597077,MALL,8,Wisconsin,Ashland,10/14/2021,immature male,hy,male
+M597078,MALL,5,Wisconsin,Ashland,10/14/2021,immature female,hy,female
+M597085,MALL,8,Wisconsin,Door,10/9/2021,immature male,hy,male
+M597113,MALL,5,Wisconsin,Kewaunee,11/14/2021,immature female,hy,female
+M597114,MALL,5,Wisconsin,Kewaunee,11/14/2021,immature female,hy,female
+M597115,MALL,8,Wisconsin,Kewaunee,11/14/2021,immature male,hy,male
+M597117,MALL,8,Wisconsin,Kewaunee,11/14/2021,immature male,hy,male
+M597121,MALL,8,Wisconsin,Winnebago,10/4/2021,immature male,hy,male
+M597122,MALL,8,Wisconsin,Winnebago,10/5/2021,immature male,hy,male
+M597123,MALL,8,Wisconsin,Winnebago,10/5/2021,immature male,hy,male
+M597141,MALL,8,Wisconsin,Winnebago,10/17/2021,immature male,hy,male
+M597142,MALL,5,Wisconsin,Winnebago,11/8/2021,immature female,hy,female
+M597143,MALL,7,Wisconsin,Winnebago,11/20/2021,adult male,ahy,male
+M597144,MALL,8,Wisconsin,Winnebago,11/8/2021,immature male,hy,male
+M597145,MALL,8,Wisconsin,Winnebago,11/8/2021,immature male,hy,male
+M597146,MALL,8,Wisconsin,Winnebago,11/8/2021,immature male,hy,male
+M597149,MALL,7,Wisconsin,Winnebago,11/6/2021,adult male,ahy,male
+M597151,MALL,8,Wisconsin,Winnebago,11/5/2021,immature male,hy,male
+M597152,MALL,8,Wisconsin,Winnebago,11/4/2021,immature male,hy,male
+M597153,MALL,5,Wisconsin,Winnebago,11/3/2021,immature female,hy,female
+M597158,MALL,8,Wisconsin,Winnebago,10/22/2021,immature male,hy,male
+M597162,MALL,4,Wisconsin,Marathon,10/2/2021,adult female,ahy,female
+M597163,MALL,5,Wisconsin,Marathon,10/12/2021,immature female,hy,female
+M597167,MALL,7,Wisconsin,Marathon,10/8/2021,adult male,ahy,male
+M597168,MALL,4,Wisconsin,Marathon,10/7/2021,adult female,ahy,female
+M597178,MALL,5,Wisconsin,Marathon,10/15/2021,immature female,hy,female
+M597179,RNDU,5,Wisconsin,Marathon,10/16/2021,immature female,hy,female
+M597180,MALL,4,Wisconsin,Marathon,10/16/2021,adult female,ahy,female
+M597181,MALL,5,Wisconsin,Marathon,10/16/2021,immature female,hy,female
+M597183,MALL,8,Wisconsin,Marathon,10/17/2021,immature male,hy,male
+M597191,MALL,8,Wisconsin,Marathon,9/26/2021,immature male,hy,male
+M597192,MALL,5,Wisconsin,Marathon,9/26/2021,immature female,hy,female
+M597199,MALL,5,Wisconsin,Marathon,9/25/2021,immature female,hy,female
+M597200,MALL,5,Wisconsin,Marathon,9/25/2021,immature female,hy,female
+M598482,MALL,5,Wisconsin,Columbia,10/30/2021,immature female,hy,female
+M598483,MALL,8,Wisconsin,Columbia,10/30/2021,immature male,hy,male
+M598488,RNDU,4,Wisconsin,Crawford,11/6/2021,adult female,ahy,female
+M598489,RNDU,5,Wisconsin,Crawford,11/6/2021,immature female,hy,female
+M598490,MALL,8,Wisconsin,Crawford,11/6/2021,immature male,hy,male
+M598491,RNDU,8,Wisconsin,Crawford,11/6/2021,immature male,hy,male
+M598565,MALL,8,Wisconsin,Vilas,10/1/2021,immature male,hy,male
+M598566,MALL,5,Wisconsin,Vilas,10/1/2021,immature female,hy,female
+M598569,MALL,7,Wisconsin,Vilas,10/16/2021,adult male,ahy,male
+M598572,MALL,7,Wisconsin,Vilas,10/17/2021,adult male,ahy,male
+M598575,MALL,7,Wisconsin,Vilas,10/17/2021,adult male,ahy,male
+M598626,MALL,8,Wisconsin,Jefferson,11/2/2021,immature male,hy,male
+M598630,MALL,8,Wisconsin,Jefferson,11/12/2021,immature male,hy,male
+M598631,MALL,5,Wisconsin,Jefferson,11/12/2021,immature female,hy,female
+M598632,MALL,8,Wisconsin,Jefferson,11/12/2021,immature male,hy,male
+M598638,MALL,7,Wisconsin,Jefferson,12/1/2021,adult male,ahy,male
+M598639,MALL,8,Wisconsin,Jefferson,12/1/2021,immature male,hy,male
+M598640,MALL,8,Wisconsin,Jefferson,11/28/2021,immature male,hy,male
+M598641,MALL,7,Wisconsin,Jefferson,11/28/2021,adult male,ahy,male
+M598642,MALL,4,Wisconsin,Jefferson,11/28/2021,adult female,ahy,female
+M598643,MALL,8,Wisconsin,Jefferson,11/10/2021,immature male,hy,male
+M598646,MALL,8,Wisconsin,Jefferson,10/3/2021,immature male,hy,male
+M598647,MALL,5,Wisconsin,Jefferson,10/3/2021,immature female,hy,female
+M598649,MALL,4,Wisconsin,Jefferson,10/3/2021,adult female,ahy,female
+M598650,MALL,7,Wisconsin,Jefferson,10/31/2021,adult male,ahy,male
+M598657,MALL,7,Wisconsin,Crawford,10/2/2021,adult male,ahy,male
+M598670,MALL,7,Wisconsin,Crawford,10/23/2021,adult male,ahy,male
+M598671,MALL,4,Wisconsin,Crawford,10/23/2021,adult female,ahy,female
+M598672,RNDU,7,Wisconsin,Crawford,10/23/2021,adult male,ahy,male
+M598673,MALL,5,Wisconsin,Crawford,10/24/2021,immature female,hy,female
+M598676,MALL,7,Wisconsin,Crawford,10/27/2021,adult male,ahy,male
+M598678,MALL,7,Wisconsin,Crawford,10/28/2021,adult male,ahy,male
+M607991,MALL,7,Wisconsin,Grant,11/26/2021,adult male,ahy,male
+M607993,MALL,4,Wisconsin,Grant,11/26/2021,adult female,ahy,female
+M607994,MALL,8,Wisconsin,Grant,11/26/2021,immature male,hy,male
+M607998,MALL,4,Wisconsin,Grant,11/27/2021,adult female,ahy,female
+M607999,MALL,5,Wisconsin,Grant,11/27/2021,immature female,hy,female
+M608000,MALL,7,Wisconsin,Grant,11/27/2021,adult male,ahy,male
+M610621,MALL,8,Wisconsin,Trempealeau,11/14/2021,immature male,hy,male
+M610624,MALL,5,Wisconsin,Trempealeau,11/18/2021,immature female,hy,female
+M610625,MALL,5,Wisconsin,Trempealeau,11/18/2021,immature female,hy,female
+M610626,MALL,8,Wisconsin,Trempealeau,11/24/2021,immature male,hy,male
+M610629,MALL,8,Wisconsin,Trempealeau,11/30/2021,immature male,hy,male
+M610631,MALL,5,Wisconsin,Trempealeau,12/5/2021,immature female,hy,female
+M610632,MALL,5,Wisconsin,Trempealeau,11/28/2021,immature female,hy,female
+M610633,MALL,5,Wisconsin,Trempealeau,11/28/2021,immature female,hy,female
+M610634,MALL,8,Wisconsin,Trempealeau,11/28/2021,immature male,hy,male
+M610635,MALL,8,Wisconsin,Trempealeau,11/28/2021,immature male,hy,male
+M610638,MALL,8,Wisconsin,Trempealeau,11/23/2021,immature male,hy,male
+M610639,MALL,5,Wisconsin,Trempealeau,11/23/2021,immature female,hy,female
+M610640,MALL,8,Wisconsin,Trempealeau,11/23/2021,immature male,hy,male
+M614641,MALL,8,Wisconsin,Barron,11/23/2021,immature male,hy,male
+M617142,RNDU,5,Wisconsin,Manitowoc,10/17/2021,immature female,hy,female
+M617235,RNDU,5,Wisconsin,Trempealeau,10/9/2021,immature female,hy,female
+M617362,RNDU,5,Wisconsin,Shawano,10/16/2021,immature female,hy,female
+M617363,MALL,8,Wisconsin,Shawano,9/26/2021,immature male,hy,male
+M617365,RNDU,8,Wisconsin,Shawano,10/18/2021,immature male,hy,male
+M617402,MALL,5,Wisconsin,Buffalo,10/29/2021,immature female,hy,female
+M617408,MALL,8,Wisconsin,Buffalo,11/6/2021,immature male,hy,male
+M617420,MALL,7,Wisconsin,Dodge,11/14/2021,adult male,ahy,male
+M617461,MALL,5,Wisconsin,Calumet,10/2/2021,immature female,hy,female
+M617467,MALL,5,Wisconsin,Calumet,10/3/2021,immature female,hy,female
+M617471,MALL,5,Wisconsin,Calumet,10/16/2021,immature female,hy,female
+M617472,MALL,4,Wisconsin,Calumet,10/16/2021,adult female,ahy,female
+M617473,MALL,4,Wisconsin,Calumet,10/17/2021,adult female,ahy,female
+M617477,MALL,4,Wisconsin,Calumet,10/30/2021,adult female,ahy,female
+M617478,MALL,5,Wisconsin,Calumet,11/6/2021,immature female,hy,female
+M617479,MALL,8,Wisconsin,Calumet,11/7/2021,immature male,hy,male
+M617504,MALL,8,Wisconsin,Fond Du Lac,10/5/2021,immature male,hy,male
+M617506,MALL,5,Wisconsin,Fond Du Lac,10/8/2021,immature female,hy,female
+M617509,MALL,8,Wisconsin,Fond Du Lac,11/2/2021,immature male,hy,male
+M617510,RNDU,5,Wisconsin,Fond Du Lac,11/13/2021,immature female,hy,female
+M617520,RNDU,9,Wisconsin,Fond Du Lac,10/17/2021,unknown male,unknown,male
+M617561,MALL,8,Wisconsin,Columbia,10/29/2021,immature male,hy,male
+M617562,MALL,7,Wisconsin,Columbia,11/2/2021,adult male,ahy,male
+M617616,RNDU,7,Wisconsin,Shawano,10/15/2021,adult male,ahy,male
+M617617,RNDU,9,Wisconsin,Shawano,10/15/2021,unknown male,unknown,male
+M617648,RNDU,5,Wisconsin,Crawford,10/19/2021,immature female,hy,female
+M617661,MALL,5,Wisconsin,Shawano,10/19/2021,immature female,hy,female
+M617678,MALL,8,Wisconsin,Shawano,10/19/2021,immature male,hy,male
+M617679,MALL,5,Wisconsin,Shawano,10/19/2021,immature female,hy,female
+M617680,MALL,8,Wisconsin,Shawano,10/19/2021,immature male,hy,male
+M618900,MALL,7,Wisconsin,Saint Croix,10/4/2021,adult male,ahy,male
+M619525,MALL,5,Wisconsin,Crawford,10/2/2021,immature female,hy,female
+M619527,MALL,8,Wisconsin,Crawford,10/3/2021,immature male,hy,male
+M619570,MALL,5,Wisconsin,La Crosse,10/31/2021,immature female,hy,female
+M619584,MALL,8,Wisconsin,Grant,10/2/2021,immature male,hy,male
+M619630,MALL,5,Wisconsin,Bayfield,9/30/2021,immature female,hy,female
+M619642,MALL,8,Wisconsin,La Crosse,11/14/2021,immature male,hy,male
+M619643,MALL,5,Wisconsin,La Crosse,11/14/2021,immature female,hy,female
+M619644,MALL,4,Wisconsin,La Crosse,11/14/2021,adult female,ahy,female
+M619666,MALL,5,Wisconsin,Winnebago,10/24/2021,immature female,hy,female
+M619667,MALL,7,Wisconsin,Winnebago,10/24/2021,adult male,ahy,male
+M619670,MALL,5,Wisconsin,Winnebago,9/19/2021,immature female,hy,female
+M621633,MALL,5,Wisconsin,Fond Du Lac,10/17/2021,immature female,hy,female
+M621636,MALL,8,Wisconsin,Fond Du Lac,10/21/2021,immature male,hy,male
+M621639,MALL,5,Wisconsin,Fond Du Lac,10/27/2021,immature female,hy,female
+M621663,MALL,8,Wisconsin,Walworth,10/2/2021,immature male,hy,male
+M621681,MALL,7,Wisconsin,Outagamie,10/21/2021,adult male,ahy,male
+M621682,MALL,8,Wisconsin,Outagamie,10/21/2021,immature male,hy,male
+M621683,MALL,7,Wisconsin,Outagamie,10/21/2021,adult male,ahy,male
+M621684,MALL,7,Wisconsin,Outagamie,10/21/2021,adult male,ahy,male
+M621685,MALL,8,Wisconsin,Outagamie,10/22/2021,immature male,hy,male
+M621686,MALL,4,Wisconsin,Outagamie,10/25/2021,adult female,ahy,female
+M621687,MALL,4,Wisconsin,Outagamie,10/25/2021,adult female,ahy,female
+M621688,MALL,7,Wisconsin,Outagamie,11/1/2021,adult male,ahy,male
+M621691,MALL,4,Wisconsin,Jefferson,10/10/2021,adult female,ahy,female
+M621723,MALL,8,Wisconsin,Taylor,9/25/2021,immature male,hy,male
+M621724,RNDU,8,Wisconsin,Taylor,9/26/2021,immature male,hy,male
+M621725,MALL,8,Wisconsin,Taylor,9/26/2021,immature male,hy,male
+M621777,MALL,7,Wisconsin,Polk,11/23/2021,adult male,ahy,male
+M621782,MALL,8,Wisconsin,Dane,12/3/2021,immature male,hy,male
+M621792,MALL,8,Wisconsin,Ashland,10/2/2021,immature male,hy,male
+M621796,MALL,8,Wisconsin,Ashland,11/5/2021,immature male,hy,male
+M621797,MALL,5,Wisconsin,Ashland,11/5/2021,immature female,hy,female
+M621801,RNDU,5,Wisconsin,Winnebago,10/20/2021,immature female,hy,female
+M621804,MALL,8,Wisconsin,Winnebago,10/2/2021,immature male,hy,male
+M621805,MALL,5,Wisconsin,Winnebago,10/2/2021,immature female,hy,female
+M621806,MALL,8,Wisconsin,Winnebago,10/2/2021,immature male,hy,male
+M621822,RNDU,8,Wisconsin,Marathon,10/15/2021,immature male,hy,male
+M621830,MALL,8,Wisconsin,Marathon,11/12/2021,immature male,hy,male
+M621840,MALL,5,Wisconsin,Waupaca,9/25/2021,immature female,hy,female
+M621987,MALL,4,Wisconsin,Outagamie,10/24/2021,adult female,ahy,female
+M621993,MALL,8,Wisconsin,Saint Croix,10/21/2021,immature male,hy,male
+M621994,MALL,8,Wisconsin,Saint Croix,10/21/2021,immature male,hy,male
+M621995,MALL,8,Wisconsin,Saint Croix,10/21/2021,immature male,hy,male
+M623272,MALL,5,Wisconsin,Dodge,10/2/2021,immature female,hy,female
+M623293,MALL,8,Wisconsin,Brown,11/3/2021,immature male,hy,male
+M623295,MALL,4,Wisconsin,Brown,10/22/2021,adult female,ahy,female
+M623297,MALL,7,Wisconsin,Brown,10/22/2021,adult male,ahy,male
+M623298,MALL,4,Wisconsin,Brown,10/7/2021,adult female,ahy,female
+M623301,MALL,5,Wisconsin,Fond Du Lac,10/16/2021,immature female,hy,female
+M623302,MALL,8,Wisconsin,Fond Du Lac,10/16/2021,immature male,hy,male
+M623306,MALL,8,Wisconsin,Fond Du Lac,11/14/2021,immature male,hy,male
+M623335,MALL,5,Wisconsin,Vernon,11/7/2021,immature female,hy,female
+M623336,MALL,7,Wisconsin,Vernon,11/7/2021,adult male,ahy,male
+M623337,MALL,8,Wisconsin,Vernon,11/8/2021,immature male,hy,male
+M623338,MALL,7,Wisconsin,Vernon,11/8/2021,adult male,ahy,male
+M623365,MALL,8,Wisconsin,Outagamie,9/25/2021,immature male,hy,male
+M623367,MALL,8,Wisconsin,Outagamie,9/25/2021,immature male,hy,male
+M623461,MALL,5,Wisconsin,Crawford,10/2/2021,immature female,hy,female
+M623467,MALL,8,Wisconsin,Crawford,10/3/2021,immature male,hy,male
+M623751,MALL,4,Wisconsin,Marathon,10/21/2021,adult female,ahy,female
+M623931,MALL,8,Wisconsin,Adams,12/4/2021,immature male,hy,male
+M623932,MALL,5,Wisconsin,Adams,12/4/2021,immature female,hy,female
+M628461,MALL,7,Wisconsin,Buffalo,12/5/2021,adult male,ahy,male
+M628474,MALL,8,Wisconsin,La Crosse,11/6/2021,immature male,hy,male
+M628475,MALL,8,Wisconsin,La Crosse,11/12/2021,immature male,hy,male
+M628476,MALL,8,Wisconsin,La Crosse,11/12/2021,immature male,hy,male
+M628477,MALL,7,Wisconsin,La Crosse,11/13/2021,adult male,ahy,male
+M628478,MALL,5,Wisconsin,La Crosse,11/13/2021,immature female,hy,female
+M628480,MALL,5,Wisconsin,La Crosse,12/4/2021,immature female,hy,female
+M629061,MALL,5,Wisconsin,Grant,11/13/2021,immature female,hy,female
+M629066,MALL,4,Wisconsin,Grant,11/13/2021,adult female,ahy,female
+M629075,RNDU,7,Wisconsin,Grant,11/15/2021,adult male,ahy,male
+M629076,RNDU,7,Wisconsin,Grant,11/15/2021,adult male,ahy,male
+M629077,RNDU,7,Wisconsin,Grant,11/15/2021,adult male,ahy,male
+M629083,MALL,8,Wisconsin,Grant,11/7/2021,immature male,hy,male
+M629084,MALL,7,Wisconsin,Grant,11/7/2021,adult male,ahy,male
+M629088,RNDU,4,Wisconsin,Grant,11/8/2021,adult female,ahy,female
+M629089,RNDU,4,Wisconsin,Grant,11/8/2021,adult female,ahy,female
+M629090,RNDU,7,Wisconsin,Grant,11/8/2021,adult male,ahy,male
+M630041,MALL,5,Wisconsin,Ashland,11/15/2021,immature female,hy,female
+M630042,RNDU,5,Wisconsin,Ashland,11/16/2021,immature female,hy,female
+M630043,MALL,5,Wisconsin,Ashland,11/16/2021,immature female,hy,female
+M630045,MALL,8,Wisconsin,Ashland,11/16/2021,immature male,hy,male
+M630046,MALL,5,Wisconsin,Ashland,11/16/2021,immature female,hy,female
+M630049,MALL,5,Wisconsin,Ashland,11/18/2021,immature female,hy,female
+M630051,MALL,5,Wisconsin,Ashland,11/18/2021,immature female,hy,female
+M630052,RNDU,7,Wisconsin,Ashland,11/18/2021,adult male,ahy,male
+M630243,MALL,4,Wisconsin,Winnebago,10/23/2021,adult female,ahy,female
+M630244,MALL,7,Wisconsin,Winnebago,10/23/2021,adult male,ahy,male
+M630263,MALL,8,Wisconsin,Crawford,10/31/2021,immature male,hy,male
+M630265,MALL,7,Wisconsin,Crawford,11/1/2021,adult male,ahy,male
+M630266,MALL,8,Wisconsin,Crawford,11/2/2021,immature male,hy,male
+M630267,MALL,7,Wisconsin,Crawford,11/2/2021,adult male,ahy,male
+M630271,MALL,7,Wisconsin,Crawford,11/13/2021,adult male,ahy,male
+M630274,MALL,4,Wisconsin,Crawford,11/17/2021,adult female,ahy,female
+M630275,MALL,7,Wisconsin,Crawford,11/18/2021,adult male,ahy,male
+M630276,MALL,5,Wisconsin,Crawford,11/18/2021,immature female,hy,female
+M630279,MALL,5,Wisconsin,Crawford,11/23/2021,immature female,hy,female
+M630280,MALL,5,Wisconsin,Crawford,11/26/2021,immature female,hy,female
+M630411,MALL,5,Wisconsin,Brown,11/9/2021,immature female,hy,female
+M630422,MALL,5,Wisconsin,Fond Du Lac,10/29/2021,immature female,hy,female
+M630434,MALL,8,Wisconsin,Fond Du Lac,11/9/2021,immature male,hy,male
+M630435,MALL,5,Wisconsin,Fond Du Lac,11/4/2021,immature female,hy,female
+M630436,MALL,5,Wisconsin,Fond Du Lac,11/5/2021,immature female,hy,female
+M630440,MALL,4,Wisconsin,Fond Du Lac,11/5/2021,adult female,ahy,female
+M634508,MALL,7,Wisconsin,La Crosse,11/12/2021,adult male,ahy,male
+M634509,MALL,5,Wisconsin,La Crosse,11/12/2021,immature female,hy,female
+M634817,MALL,5,Wisconsin,Unknown,10/5/2021,immature female,hy,female

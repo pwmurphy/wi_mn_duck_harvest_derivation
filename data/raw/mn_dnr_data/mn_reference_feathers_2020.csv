@@ -1,0 +1,81 @@
+cornell_sample_id,fws_id,batch_id,run_id,source,sample_type,collection_date,species,age,sex,feather,state,county,town,latitude,longitude,weight_mg,h2_amp,percent_h,d2h_vs_vsmow_original,d2h_vs_vsmow_2017,comments,year
+MN001,,,1,reference,feather,7/16/2020,MALL,L,M,,MN,Clearwater,CLPINLAK,47.69222222,-95.52527778,0.32,7496,5.93,-124.31,,"Pine Lake, 3.0 S Gonvick, Clearwater Co, MN",2020
+MN002,,,1,reference,feather,7/16/2020,MALL,L,M,,MN,Clearwater,CLPINLAK,47.69222222,-95.52527778,0.371,8590,5.89,-129.25,,"Pine Lake, 3.0 S Gonvick, Clearwater Co, MN",2020
+MN003,,,1,reference,feather,7/16/2020,MALL,L,F,,MN,Clearwater,CLPINLAK,47.69222222,-95.52527778,0.311,7236,5.87,-117.6,,"Pine Lake, 3.0 S Gonvick, Clearwater Co, MN",2020
+MN004,,,1,reference,feather,7/20/2020,MALL,L,F,,MN,Beltrami,BLLARLAK,47.6575,-94.86833333,0.338,7581,5.71,-127.74,,"Larson Lake, 2.3 SE Puposky, Beltrami Co, MN",2020
+MN005,,,1,reference,feather,7/20/2020,MALL,L,F,,MN,Beltrami,BLLARLAK,47.6575,-94.86833333,0.324,7828,6.11,-128.98,,"Larson Lake, 2.3 SE Puposky, Beltrami Co, MN",2020
+MN006,,,1,reference,feather,7/20/2020,MALL,L,F,,MN,Beltrami,BLLARLAK,47.6575,-94.86833333,0.316,7503,5.99,-122.76,,"Larson Lake, 2.3 SE Puposky, Beltrami Co, MN",2020
+MN007,,,1,reference,feather,7/22/2020,MALL,HY,M,,MN,Beltrami,BLRABLAK,47.63861111,-94.51166667,0.337,7878,5.86,-128.86,,"Rabideau Lake, 6.6 ENE Hines, Beltrami Co, MN",2020
+MN008,,,1,reference,feather,7/27/2020,MALL,HY,F,,MN,Polk,PKTURLAK,47.61222222,-95.66666667,0.368,8661,5.98,-138.85,,"Turtle Lake, 4.5 ENE Fosston, Polk Co, MN",2020
+MN009,,,1,reference,feather,7/27/2020,MALL,HY,M,,MN,Polk,PKTURLAK,47.61222222,-95.66666667,0.334,7673,5.8,-100.69,,"Turtle Lake, 4.5 ENE Fosston, Polk Co, MN",2020
+MN010,,,1,reference,feather,7/28/2020,MALL,L,F,,MN,Itasca,ITDIXLAK,47.59805556,-94.28333333,0.302,5769,5.05,-147.11,,"Dixon Lake, 7 WSW Squaw Lake, Itasca Co, MN",2020
+MN011,,,1,reference,feather,7/28/2020,MALL,L,M,,MN,Itasca,ITDIXLAK,47.59805556,-94.28333333,0.315,7100,5.67,-144.27,,"Dixon Lake, 7 WSW Squaw Lake, Itasca Co, MN",2020
+MN012,,,1,reference,feather,7/28/2020,MALL,L,M,,MN,Itasca,ITDIXLAK,47.59805556,-94.28333333,0.314,7556,6.13,-153.75,,"Dixon Lake, 7 WSW Squaw Lake, Itasca Co, MN",2020
+MN013,,,1,reference,feather,7/29/2020,MALL,L,M,,MN,Itasca,ITRNDLAK,47.61916667,-94.16722222,0.391,9199,5.9,-149.67,,"Round Lake, 0.5 SW Squaw Lake, Itasca Co, MN",2020
+MN014,,,1,reference,feather,7/29/2020,MALL,L,M,,MN,Itasca,ITRNDLAK,47.61916667,-94.16722222,0.387,9004,5.85,-149.74,,"Round Lake, 0.5 SW Squaw Lake, Itasca Co, MN",2020
+MN015,,,1,reference,feather,7/29/2020,MALL,L,F,,MN,Itasca,ITRNDLAK,47.61916667,-94.16722222,0.425,10013,5.97,-147.99,,"Round Lake, 0.5 SW Squaw Lake, Itasca Co, MN",2020
+MN016,,,1,reference,feather,7/30/2020,MALL,L,F,,MN,Itasca,ITNATLAK,47.64472222,-94.11916667,0.313,7347,6.02,-122.48,,"Natures Lake, 3.0 NW Max, Itasca Co, MN",2020
+MN017,,,1,reference,feather,7/30/2020,MALL,L,F,,MN,Itasca,ITNATLAK,47.64472222,-94.11916667,0.321,7513,5.91,-113.88,,"Natures Lake, 3.0 NW Max, Itasca Co, MN",2020
+MN018,,,1,reference,feather,8/5/2020,MALL,L,M,,MN,Clearwater,CLLITPIL,47.675,-95.525,0.472,10975,5.85,-149.29,,"Little Pine Lake, 4.5 S Gonvick, Clearwater Co, MN",2020
+MN019,,,1,reference,feather,8/5/2020,MALL,L,F,,MN,Clearwater,CLLITPIL,47.675,-95.525,0.365,8532,5.89,-143.01,,"Little Pine Lake, 4.5 S Gonvick, Clearwater Co, MN",2020
+MN020,,,1,reference,feather,8/5/2020,MALL,HY,F,,MN,Clearwater,CLLITPIL,47.675,-95.525,0.301,6973,5.86,-135.06,,"Little Pine Lake, 4.5 S Gonvick, Clearwater Co, MN",2020
+MN021,,,1,reference,feather,8/5/2020,MALL,L,M,,MN,Clearwater,CLPINLAK,47.69222222,-95.52527778,0.382,9044,6.04,-134.27,,"Pine Lake, 3.0 S Gonvick, Clearwater Co, MN",2020
+MN022,,,1,reference,feather,8/6/2020,MALL,HY,M,,MN,Clearwater,CLFOULES,47.64166667,-95.24444444,0.481,10976,5.83,-148.88,,"South Four-legged Lake, 1.5 ESE Leonard, Clearwater Co, MN",2020
+MN023,,,1,reference,feather,8/6/2020,MALL,HY,M,,MN,Clearwater,CLFOULES,47.64166667,-95.24444444,0.408,8820,5.5,-109.57,,"South Four-legged Lake, 1.5 ESE Leonard, Clearwater Co, MN",2020
+MN024,,,1,reference,feather,8/6/2020,MALL,HY,M,,MN,Itasca,ITLITWHO,47.26861111,-93.75472222,0.337,7638,5.74,-97.89,,"Little White Oak Lake, 11.0 WNW Grand Rapids, Itasca Co, MN",2020
+MN025,,,1,reference,feather,8/6/2020,MALL,L,M,,MN,Itasca,ITLITWHO,47.26861111,-93.75472222,0.442,10203,5.84,-114.94,,"Little White Oak Lake, 11.0 WNW Grand Rapids, Itasca Co, MN",2020
+MN026,,,1,reference,feather,8/10/2020,MALL,HY,M,,MN,Clearwater,CLUPPRIL,47.39444444,-95.29472222,0.438,10450,6.02,-115.97,,"Upper Rice Lake, 3.5 WNW Alida, Clearwater Co, MN",2020
+MN027,,,1,reference,feather,8/10/2020,MALL,HY,F,,MN,Clearwater,CLUPPRIL,47.39444444,-95.29472222,0.355,8375,5.98,-106.57,,"Upper Rice Lake, 3.5 WNW Alida, Clearwater Co, MN",2020
+MN028,,,1,reference,feather,8/10/2020,MALL,HY,M,,MN,Polk,PKLENGBY,47.525,-96.65833333,0.309,6777,5.55,-117.59,,"Lengby WMA, 1 W Lengby, Polk Co, MN",2020
+MN029,,,1,reference,feather,8/10/2020,MALL,HY,F,,MN,Polk,PKLENGBY,47.525,-96.65833333,0.423,9202,5.55,-124.86,,"Lengby WMA, 1 W Lengby, Polk Co, MN",2020
+MN030,,,1,reference,feather,8/11/2020,MALL,L,F,,MN,Itasca,ITTHIRIF,47.53138889,-94.2875,0.364,7273,5.12,-131.03,,"Third River Flowage, 8.7 SSE Rosy, Itasca Co, MN",2020
+MN031,,,1,reference,feather,8/11/2020,MALL,HY,F,,MN,Itasca,ITTHIRIF,47.53138889,-94.2875,0.334,7676,5.83,-111.34,,"Third River Flowage, 8.7 SSE Rosy, Itasca Co, MN",2020
+MN032,,,1,reference,feather,8/12/2020,MALL,L,M,,MN,Polk,PKBADLAK,47.68,-96.01111111,0.374,0,,,,"Badger Lake, 1 N Erskine, Polk Co, MN",2020
+MN033,,,1,reference,feather,8/17/2020,MALL,HY,F,,MN,Marshall,MATHILAW,48.49166667,-95.89305556,0.344,16923,,,,"Thief Lake WMA, 6.5 NW Gatzke, Marshall Co, MN",2020
+MN034,,,1,reference,feather,8/17/2020,MALL,L,M,,MN,Marshall,MATHILAW,48.49166667,-95.89305556,0.454,10606,5.95,-112.76,,"Thief Lake WMA, 6.5 NW Gatzke, Marshall Co, MN",2020
+MN035,,,1,reference,feather,8/18/2020,MALL,HY,M,,MN,Roseau,RORP1ED2,48.95333333,-96.02472222,0.396,8777,5.73,-122.12,,"Roseau River WMA Pool 1E Dike Site 2, 3.4 NNE Duxby, Roseau Co, MN",2020
+MN036,,,1,reference,feather,8/19/2020,MALL,L,F,,MN,Marshall,MAFAPELW,48.25833333,-96.09166667,0.421,9968,6.03,-128.51,,"Farmes Pool, Elm Lake WMA, 7.5 ESE Holt, Marshall Co, MN",2020
+MN037,,,1,reference,feather,8/20/2020,MALL,HY,M,,MN,Beltrami,BLMUSLAK,47.675,-95.00833333,0.39,5734,3.74,-125.66,,"Muskrat Lake, 5 E Aure, Beltrami Co, MN",2020
+MN038,,,1,reference,feather,8/20/2020,MALL,L,F,,MN,Beltrami,BLMUSLAK,47.675,-95.00833333,0.3,6631,5.62,-122.89,,"Muskrat Lake, 5 E Aure, Beltrami Co, MN",2020
+MN039,,,1,reference,feather,9/10/2020,MALL,HY,F,,MN,Marshall,MATLWMNW,48.51138889,-95.92,0.422,9366,5.73,-112.8,,"Thief Lake WMA NW Site, 8.7 NW Gatzke, Marshall Co, MN",2020
+MN040,,,1,reference,feather,9/10/2020,MALL,HY,F,,MN,Marshall,MATLWMNW,48.51138889,-95.92,0.373,6959,4.76,-128.86,,"Thief Lake WMA NW Site, 8.7 NW Gatzke, Marshall Co, MN",2020
+MN041,,,1,reference,feather,9/10/2020,MALL,HY,M,,MN,Marshall,MATLWMNW,48.51138889,-95.92,0.439,10133,5.92,-153.33,,"Thief Lake WMA NW Site, 8.7 NW Gatzke, Marshall Co, MN",2020
+MN042,,,1,reference,feather,9/11/2020,MALL,AHY,F,,MN,Marshall,MATLWMNE,48.49111111,-95.84083333,0.351,8293,6.06,-119.66,,"Thief Lake WMA NE Site, 5.3 NNW Gatzke, Marshall Co, MN",2020
+MN043,,,1,reference,feather,9/11/2020,MALL,HY,M,,MN,Marshall,MATLWMNE,48.49111111,-95.84083333,0.371,8486,5.83,-92.34,,"Thief Lake WMA NE Site, 5.3 NNW Gatzke, Marshall Co, MN",2020
+MN044,,,1,reference,feather,9/11/2020,MALL,HY,F,,MN,Roseau,MATLWMNE,48.49111111,-95.84083333,0.498,11721,5.98,-128.56,,"Thief Lake WMA NE Site, 5.3 NNW Gatzke, Marshall Co, MN",2020
+MN045,,,1,reference,feather,9/22/2020,MALL,HY,M,,MN,Roseau,RORP1ED2,48.95333333,-96.02472222,0.361,8280,5.88,-127.29,,"Roseau River WMA Pool 1E Dike Site 2, 3.4 NNE Duxby, Roseau Co, MN",2020
+MN046,,,1,reference,feather,9/22/2020,MALL,HY,M,,MN,Roseau,RORP1ED2,48.95333333,-96.02472222,0.383,8680,5.75,-128.06,,"Roseau River WMA Pool 1E Dike Site 2, 3.4 NNE Duxby, Roseau Co, MN",2020
+MN047,,,1,reference,feather,9/22/2020,MALL,HY,F,,MN,Roseau,RORP1ED2,48.95333333,-96.02472222,0.434,10081,5.96,-108.51,,"Roseau River WMA Pool 1E Dike Site 2, 3.4 NNE Duxby, Roseau Co, MN",2020
+MN048,,,1,reference,feather,9/22/2020,MALL,HY,F,,MN,Roseau,RORP1ED2,48.95333333,-96.02472222,0.349,8047,5.89,-106.75,,"Roseau River WMA Pool 1E Dike Site 2, 3.4 NNE Duxby, Roseau Co, MN",2020
+MN049,,,1,reference,feather,9/23/2020,MALL,HY,F,,MN,Marshall,MATLWMNW,48.51138889,-95.92,0.409,8913,5.62,-121.56,,"Thief Lake WMA NW Site, 8.7 NW Gatzke, Marshall Co, MN",2020
+MN050,,,1,reference,feather,9/23/2020,MALL,HY,M,,MN,Marshall,MATLWMNW,48.51138889,-95.92,0.34,7635,5.77,-110.38,,"Thief Lake WMA NW Site, 8.7 NW Gatzke, Marshall Co, MN",2020
+MN051,,,1,reference,feather,9/23/2020,MALL,HY,F,,MN,Roseau,RORORW1C,48.96305556,-96.01027778,0.309,6884,5.73,-112.37,,"Roseau River WMA Pool1E Corner Site (T163 R42 S12) 3.2 WSW Pine Ceek, Roseasu Co, MN",2020
+MN052,,,1,reference,feather,7/23/2020,RNDU,L,F,,MN,Beltrami,BLWFLAKA,47.67888889,-95.09861111,0.315,7058,5.72,-137.63,,"Whitefish Lake, Aure, Beltrami Co, MN",2020
+MN053,,,1,reference,feather,7/23/2020,RNDU,L,F,,MN,Beltrami,BLWFLAKA,47.67888889,-95.09861111,0.351,7861,5.76,-140.75,,"Whitefish Lake, Aure, Beltrami Co, MN",2020
+MN054,,,1,reference,feather,8/5/2020,RNDU,L,F,,MN,Clearwater,CLLITPIL,47.6725,-95.525,0.354,8023,5.77,-119.18,,"Little Pine Lake, 4.5 S Gonvick, Clearwater Co, MN",2020
+MN055,,,1,reference,feather,8/5/2020,RNDU,L,F,,MN,Clearwater,CLLITPIL,47.6725,-95.525,0.379,8540,5.79,-136.45,,"Little Pine Lake, 4.5 S Gonvick, Clearwater Co, MN",2020
+MN056,,,1,reference,feather,8/5/2020,RNDU,HY,F,,MN,Clearwater,CLLITPIL,47.6725,-95.525,0.308,7183,5.97,-129.2,,"Little Pine Lake, 4.5 S Gonvick, Clearwater Co, MN",2020
+MN057,,,1,reference,feather,8/5/2020,RNDU,L,F,,MN,Clearwater,CLPINLAK,47.69222222,-95.52527778,0.3,6504,5.54,-120.56,,"Pine Lake, 3.0 S Gonvick, Clearwater Co, MN",2020
+MN058,,,1,reference,feather,8/5/2020,RNDU,L,F,,MN,Clearwater,CLPINLAK,47.69222222,-95.52527778,0.346,8053,5.97,-112.93,,"Pine Lake, 3.0 S Gonvick, Clearwater Co, MN",2020
+MN059,,,1,reference,feather,8/6/2020,RNDU,L,M,,MN,Clearwater,CLFOULES,47.64166667,-95.24444444,0.354,7986,5.8,-79.9,,"South Four-legged Lake, 1.5 ESE Leonard, Clearwater Co, MN",2020
+MN060,,,1,reference,feather,8/6/2020,RNDU,HY,F,,MN,Clearwater,CLFOULES,47.64166667,-95.24444444,0.358,11015,7.82,-77.62,,"South Four-legged Lake, 1.5 ESE Leonard, Clearwater Co, MN",2020
+MN061,,,1,reference,feather,8/6/2020,RNDU,L,F,,MN,Itasca,ITLITWHO,47.26861111,-93.75472222,0.367,8438,5.87,-118.1,,"Little White Oak Lake, 11.0 WNW Grand Rapids, Itasca Co, MN",2020
+MN062,,,1,reference,feather,8/6/2020,RNDU,L,M,,MN,Itasca,ITLITWHO,47.26861111,-93.75472222,0.416,9345,5.78,-115.66,,"Little White Oak Lake, 11.0 WNW Grand Rapids, Itasca Co, MN",2020
+MN063,,,1,reference,feather,8/10/2020,RNDU,L,F,,MN,Clearwater,CLUPPRIL,47.39444444,-95.29472222,0.419,9559,5.82,-103.56,,"Upper Rice Lake, 3.5 WNW Alida, Clearwater Co, MN",2020
+MN064,,,1,reference,feather,8/10/2020,RNDU,L,M,,MN,Clearwater,CLUPPRIL,47.39444444,-95.29472222,0.384,8740,5.83,-95,,"Upper Rice Lake, 3.5 WNW Alida, Clearwater Co, MN",2020
+MN065,,,1,reference,feather,8/10/2020,RNDU,HY,M,,MN,Clearwater,CLUPPRIL,47.39444444,-95.29472222,0.306,6628,5.59,-87.09,,"Upper Rice Lake, 3.5 WNW Alida, Clearwater Co, MN",2020
+MN066,,,1,reference,feather,8/11/2020,RNDU,L,M,,MN,Itasca,ITTHIRIF,47.53138889,-94.2875,0.426,9567,5.8,-138.89,,"Third River Flowage, 8.7 SSE Rosy, Itasca Co, MN",2020
+MN067,,,1,reference,feather,8/11/2020,RNDU,L,F,,MN,Itasca,ITWHIOAL,47.30972222,-93.77527778,0.356,8152,5.89,-117.15,,"White Oak Lake, 0.5 S Zemple, Itasca Co, MN",2020
+MN068,,,1,reference,feather,8/11/2020,RNDU,L,M,,MN,Itasca,ITWHIOAL,47.30972222,-93.77527778,0.33,7477,5.82,-111.72,,"White Oak Lake, 0.5 S Zemple, Itasca Co, MN",2020
+MN069,,,1,reference,feather,8/11/2020,RNDU,L,M,,MN,Itasca,ITWHIOAL,47.30972222,-93.77527778,0.303,6924,5.89,-120.14,,"White Oak Lake, 0.5 S Zemple, Itasca Co, MN",2020
+MN070,,,1,reference,feather,8/12/2020,RNDU,L,M,,MN,Polk,PKBADLAK,47.68,-96.01111111,0.3,6957,6.04,-119.01,,"Badger Lake, 1 N Erskine, Polk Co, MN",2020
+MN071,,,1,reference,feather,8/12/2020,RNDU,HY,F,,MN,Polk,PKBADLAK,47.68,-96.01111111,0.356,7858,5.75,-113.58,,"Badger Lake, 1 N Erskine, Polk Co, MN",2020
+MN072,,,2,reference,feather,8/14/2020,RNDU,L,F,,MN,Itasca,ITSHLWPD,47.75,-94.25805556,0.442,9034,5.08,-123.51,,"Shallow Pond Lake, 1.7 N Alvwood, Itasca Co, MN",2020
+MN073,,,2,reference,feather,8/14/2020,RNDU,HY,M,,MN,Itasca,ITSHLWPD,47.75,-94.25805556,0.345,7349,5.3,-125.78,,"Shallow Pond Lake, 1.7 N Alvwood, Itasca Co, MN",2020
+MN074,,,2,reference,feather,8/14/2020,RNDU,L,F,,MN,Itasca,ITSHLWPD,47.75,-94.25805556,0.302,7733,6.33,-118.43,,"Shallow Pond Lake, 1.7 N Alvwood, Itasca Co, MN",2020
+MN075,,,2,reference,feather,8/17/2020,RNDU,L,F,,MN,Marshall,MATHILAW,48.49166667,-95.89305556,0.436,6028,3.52,-129.1,,"Thief Lake WMA, 6.5 NW Gatzke, Marshall Co, MN",2020
+MN076,,,2,reference,feather,8/18/2020,RNDU,HY,M,,MN,Roseau,RORP1ED2,48.95333333,-96.02472222,0.348,7886,5.63,-103.64,,"Roseau River WMA Pool 1E Dike Site 2, 3.4 NNE Duxby, Roseasu Co, MN",2020
+MN077,,,2,reference,feather,8/18/2020,RNDU,HY,M,,MN,Roseau,RORP1WPE,48.95361111,-96.06277778,0.355,8137,5.72,-131.82,,"Roseau River WMA Pool 1W Peninsula Site, 3.3 NNW Duxby, Roseasu Co, MN",2020
+MN078,,,2,reference,feather,8/20/2020,RNDU,L,F,,MN,Beltrami,BLMUSLAK,47.675,-95.00833333,0.336,7534,5.64,-128.35,,"Muskrat Lake, 5 E Aure, Beltrami Co, MN",2020
+MN079,,,2,reference,feather,8/20/2020,RNDU,L,F,,MN,Koochiching,KCBATLAK,47.87305556,-94.3425,0.314,7066,5.61,-115.96,,"Battle Lake, 3.0 W Northome, Koochiching Co, MN",2020
+MN080,,,2,reference,feather,8/20/2020,RNDU,HY,M,,MN,Koochiching,KCBATLAK,47.87305556,-94.3425,0.317,7215,5.64,-120.28,,"Battle Lake, 3.0 W Northome, Koochiching Co, MN",2020
