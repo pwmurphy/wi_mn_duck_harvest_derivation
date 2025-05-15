@@ -465,3 +465,192 @@ ggsave(here::here('figures/cal_equation_selection/example_wodu_binary_WI239.png'
 # Odds <- makeOddsSurfaces(prob[[10]])
 # # Converts probabilities into odds
 # plot(Odds)
+
+
+
+
+#############################################################
+#############################################################
+## Jackson's added code
+
+
+#' knownCV
+#'
+#'  Cross-validation test to assess performance of stable-hydrogen isotope values in precipitation to 
+#'
+#' @param isoscape Rast object (terra) for the isoscape containing two layers (mean and se)
+#' @param points Vect object (terra) for the known-origin isotope samples 
+#' @param include.error 
+#' @param odds 
+#' @param CVsubset Proportion of the data to withhold for the calibration subset
+#' @param CVrep Number of cross-validation repetitions 
+#' @return
+#' @export
+#'
+#' @examples
+
+knownCV <- function(isoscape, points, include.error = F, odds, CVsubset = 0.8, CVrep = 2, Tarea = Tarea) {
+  
+  # add progress bar, for fun :)
+  pb = txtProgressBar(min = 0, max = CVrep, initial = 0) 
+  
+  gc() # This code has historically caused me headaches with memory - so it written to be very memory stingy
+
+  # Check the filetype
+  if(class(isoscape)[1] != 'SpatRaster') {
+    isoscape = rast(isoscape)
+    message("Invalid isoscape format: Converting isoscape to a SpatRaster")
+  }
+  
+  rowLength = nrow(points)
+  ids = seq_len(rowLength)
+  
+  # Determine Cross-validation subsets
+  CV.ids = sort(sample(ids, floor(CVsubset*rowLength), replace = FALSE))
+  for (i in seq_len(CVrep)[-1]) {
+    CV.ids = rbind(CV.ids, sort(sample(ids, floor(CVsubset*rowLength), replace = FALSE)))
+  }
+  
+  # Create empty vectors for accuracy, precision, distance, and azimuth values, per CVrep
+  CV.df <- data.frame(isoscape = names(isoscape)[1], species = as.character(glue::glue_collapse(unique(points$species), sep = "/")), 
+                      CVsubset = CVsubset, odds = odds, CVrep = CVrep,
+                      accuracy = rep(NA,CVrep), precision = rep(NA,CVrep), n.accurate = rep(NA,CVrep), n.innaccurate = rep(NA,CVrep))
+  
+  # For loop: each loop being a single cross validation repetition with a new calibration and validation subset  
+  for (i in seq_len(CVrep)) {
+    setTxtProgressBar(pb,i)
+    
+    cal = points[CV.ids[i, ], ]
+    val = points[-CV.ids[i, ], ]
+    
+    # Calibrate isoscape using the validation data
+    cal$iso.precip = terra::extract(isoscape, cal, method = 'bilinear', na.rm = T)[,2]
+    mod = lm(d2H ~ iso.precip, data = cal)
+    
+    cal.isoscape = app(isoscape[[1]], fun = function(x){x * summary(mod)$coefficients[2] + summary(mod)$coefficients[1]}) 
+    cal.sd =  sd(summary(mod)$resid)
+    
+    val.iso = val$d2H # Extract the VSMOW values
+    valLength = length(val.iso)
+    temp.accuracy = rep(0, valLength) # Establish blank vectors for individual-specific validation results
+    temp.precision = rep(0, valLength)
+    val$ID <- seq_len(nrow(val)) # Setup ID column for pdRaster
+    
+    # For loop, individual-specific assignment and validation procedures - run this way to minimize memory usage  
+    for (j in seq_len(valLength)){
+      
+      if (include.error == F) {
+        cal.isoscape.sd = cal.isoscape * 0
+      } else {
+        cal.isoscape.sd = isoscape[[2]]
+      }
+      
+      # Assignment function
+      r = isotopeAssignmentModel(ID = val$ID[j], isotopeValue = val.iso[j], SD_indv = cal.sd, 
+                                 precip_raster = raster(cal.isoscape), precip_SD_raster = raster(cal.isoscape.sd)) %>%
+        rast()
+      
+      # Convert to binary surface
+      s = assignR::qtlRaster(r, threshold = odds, thresholdType = "prob", genplot = F)
+      
+      # Accuracy
+      # Individual metric (0 or 1) based on whether the binary region overlaps sampling location
+      temp.accuracy[j] = as.numeric(terra::extract(s, val[j,])[,2], method = 'bilinear', na.rm = T)
+      
+      # Precision: (Total area values can be calculated outside the function to save computation time)
+      # Count of cells in the binary region vs the number of cells in the entire isoscape (equal area projection)
+      temp.precision[j] = sum(na.omit(s[[1]][])) / Tarea  
+      
+      rm(s)
+      gc()
+    }
+    rm(cal.isoscape, mod, cal.sd, cal, val.iso) 
+    
+    CV.df[i,"accuracy"] = sum(temp.accuracy) / valLength
+    CV.df[i,"precision"] = mean(temp.precision)
+    CV.df[i,"n.accurate"] = sum(temp.accuracy)
+    CV.df[i,"n.innaccurate"] = valLength - sum(temp.accuracy)
+    
+    close(pb)
+  }
+  gc()
+  return(CV.df)
+}
+
+
+
+
+spp_d2h <- read_rds("data/processed/cleaned_feather_results/reference_data_df.rds") %>% 
+  filter(age == "local") %>% # for now, not using AHY or HY birds 
+  mutate(species = tolower(species)) %>%
+  rename(d2H = 'd2h_vs_vsmow_original') %>%
+  vect(geom = c('longitude','latitude'), crs = 'EPSG:4326') %>%
+  project(crs)
+
+northamerica <- ne_states(iso_a2 = c("CA", "US"), returnclass = "sf") %>% 
+  filter(!name %in% c("Alaska", "Hawaii")) %>% 
+  st_transform(crs = "EPSG:4326")
+
+gsd <- c(isoscape_gs, isoscape_gs_se) %>%
+  mask(northamerica) %>%
+  crop(ext(northamerica)) %>%
+  project(crs)
+
+mad <- c(isoscape_ma, isoscape_ma_se) %>%
+  mask(northamerica) %>%
+  crop(ext(northamerica)) %>%
+  project(crs)
+
+Tarea.gsd <- length(na.omit(gsd[[1]][]))
+Tarea.mad <- length(na.omit(mad[[1]][]))
+
+
+
+# Note, that the CVrep should be moderate (25-100), but shouldn't need to be too high (>1000) because these samples sizes are generally low
+# and computing time is quite long because each individual in the validation subset needs to be assigned. So if one assignment takes 5 seconds and
+# you have 150 samples in the validation subset x 100 reps, that's roughly 20 hours. Not terrible, but not necessary when the sample size for a species
+# is < 100. I did 25 in my chapter because the processing time including EU and NA samples was even higher. Whatever we settle on, it should be consistent
+# across comparison groups.
+
+
+(CV.gsd.df <- knownCV(isoscape = gsd, points = spp_d2h, Tarea = Tarea.gsd, include.error = T, odds = 2/3, CVsubset = 0.5, CVrep = 25)) 
+(CV.mad.df <- knownCV(isoscape = mad, points = spp_d2h, Tarea = Tarea.mad, include.error = T, odds = 2/3, CVsubset = 0.5, CVrep = 25))
+
+(CV.gsd.dabblers.df <- knownCV(isoscape = gsd, points = spp_d2h[spp_d2h$species %in% c("mall","wodu"),], Tarea = Tarea.gsd, include.error = T, odds = 2/3, CVsubset = 0.5, CVrep = 25))
+(CV.mad.dabblers.df <- knownCV(isoscape = mad, points = spp_d2h[spp_d2h$species %in% c("mall","wodu"),], Tarea = Tarea.mad, include.error = T, odds = 2/3, CVsubset = 0.5, CVrep = 25))
+
+(CV.gsd.RNDU.df <- knownCV(isoscape = gsd, points = spp_d2h[spp_d2h$species == "rndu",], Tarea = Tarea.gsd, include.error = T, odds = 2/3, CVsubset = 0.5, CVrep = 25))
+(CV.mad.RNDU.df <- knownCV(isoscape = mad, points = spp_d2h[spp_d2h$species == "rndu",], Tarea = Tarea.mad, include.error = T, odds = 2/3, CVsubset = 0.5, CVrep = 25))
+
+CV.df <- rbind(CV.gsd.df, CV.mad.df, CV.gsd.dabblers.df, CV.mad.dabblers.df, CV.gsd.RNDU.df, CV.mad.RNDU.df)
+
+write.csv(CV.df, file = 'output/cal_equation_selection/CV.dataframe.csv', row.names = F)
+
+# Plot the results
+CV.df <- read.csv('output/cal_equation_selection/CV.dataframe.csv')
+
+CV.df <- pivot_longer(CV.df, 
+                      cols = c("accuracy","precision"),
+                      values_to = "response",
+                      names_to = "metric")
+
+ints <- data.frame(metric =  c("accuracy","precision"), yintercept = c(0.66, NA))
+
+(p.boxplot <- ggplot(CV.df, aes(y = response, col = isoscape, x = species)) + 
+  facet_wrap(~ metric) +
+  geom_hline(data = ints, aes(yintercept = yintercept), linetype = 3) +
+  geom_boxplot()) 
+
+ggsave(p.boxplot, filename = "figures/CV_boxplots.png", 
+       width = 6, height = 4.5, units = "in", dpi = 300)
+
+
+summary(lme4::lmer(response ~ isoscape + (1|species), data = CV.df[CV.df$metric == "accuracy",]))
+
+
+
+
+
+
+
+
